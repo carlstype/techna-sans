@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'TTUU';
+  font-weight: 400;
+  src: url(TTUU-Regular.otf);
+}
+
+* {
+  box-sizing: border-box;
+  font: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'TTUU', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 100px auto 120px;
+  max-width: 1600px;
+  padding: 0 30px;
+  /* text-transform: uppercase; */
+  word-wrap: break-word;
+
+  background: #fff;
+  /* background: #0af50a; */
+  /* background: #ff0707; */
+  /* background: #fff000; */
+  /* background: #00ccff; */
+  /* background: #ff00cc; */
+  color: #000;
+}
+
+.dark {
+  background: #000;
+  /* background: #0076d6; */
+  color: #fff;
+  /* color: #0af50a; */
+  /* color: #ff0707; */
+  /* color: #fff000; */
+  /* color: #00ccff; */
+  /* color: #ff00cc; */
+}
+
+.uppercase {
+  text-transform: uppercase;
+  /* text-transform: capitalize; */
+}
+
+.color-input {
+  background: none;
+  border: 0;
+  color: inherit;
+}
+
+textarea {
+  background: inherit;
+  border: 0;
+  color: inherit;
+  margin: 0 0 16px;
+  outline: 0;
+  padding: 0;
+  text-transform: inherit;
+  width: 100%;
+}
+
+
+p {
+  margin: 0 0 16px;
+}
+
+h2 {
+  border-top: 2px solid;
+  border-top-color: inherit;
+  margin: 48px 0 16px;
+  padding: .25em 0 0 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+}
+
+button {
+  background: none;
+  border: 0;
+  color: inherit;
+  text-transform: inherit;
+}
+
+.button {
+  cursor: pointer;
+}
+
+.settings-bar {
+  background: inherit;
+  font-size: 15px;
+  left: 0;
+  line-height: 1;
+  padding: 0 6%;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.settings-bar__button {
+  padding: 13px 16px 11px;
+}
+
+.settings-bar__color-input {
+  border: 0;
+  padding: 12px 0 10px;
+  width: 160px;
+}
+
+#dark-button {
+  /* display: none; */
+}
+
+#ss01-button,
+#ss02-button,
+#ss03-button,
+#ss04-button,
+#fg-color,
+#bg-color {
+  display: none;
+}
