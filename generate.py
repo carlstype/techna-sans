@@ -5,7 +5,7 @@ import os
 import sys
 
 sources = [
-    'TTUU-Regular.sfd'
+    'Techna-Regular.sfd'
     ]
 
 raw = len(sys.argv) > 1 and sys.argv[1] == 'raw'
