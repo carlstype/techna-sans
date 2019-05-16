@@ -1762,9 +1762,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497476"
-     inkscape:cx="3794.6509"
-     inkscape:cy="-71.148438"
+     inkscape:zoom="1.9798991"
+     inkscape:cx="5731.6967"
+     inkscape:cy="-40.790784"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2823,5 +2823,27 @@
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.79778981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          transform="rotate(-15)" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:22.23261642px;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1296.8538"
+       y="-44.187862"
+       id="text2329"><tspan
+         sodipodi:role="line"
+         id="tspan2327"
+         x="1296.8538"
+         y="-44.187862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Techna;-inkscape-font-specification:Techna;stroke-width:0.26458332px">Open Sans</tspan></text>
+    <text
+       id="text2317"
+       y="-25.345362"
+       x="1296.8538"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:22.23261642px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px;"
+         y="-25.345362"
+         x="1296.8538"
+         id="tspan2315"
+         sodipodi:role="line">Open Sans</tspan></text>
   </g>
 </svg>
