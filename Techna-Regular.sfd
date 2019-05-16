@@ -50,7 +50,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 50 25 9
+WinInfo: 0 25 9
 BeginPrivate: 0
 EndPrivate
 Grid
