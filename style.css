@@ -19,6 +19,7 @@ body {
   max-width: 1600px;
   padding: 0 30px;
   /* text-transform: uppercase; */
+  /* text-transform: capitalize; */
   word-wrap: break-word;
 
   background: #fff;
