@@ -1762,9 +1762,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="323.98005"
-     inkscape:cy="-401.33784"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="1433.6493"
+     inkscape:cy="1735.2971"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2465,7 +2465,7 @@
        height="126.50391"
        width="224.89583"
        id="rect2359"
-       style="opacity:1;vector-effect:none;fill:#021131;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <g
        id="g2443"
        transform="matrix(1.0581699,-0.28353577,0.28353577,1.0581699,934.82501,371.906)"
@@ -2764,7 +2764,7 @@
          y="-365.43872" />
     </g>
     <rect
-       style="opacity:1;vector-effect:none;fill:#021131;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect2276"
        width="224.89583"
        height="126.50391"
@@ -3073,7 +3073,7 @@
        height="126.50391"
        width="224.89583"
        id="rect2520"
-       style="opacity:1;vector-effect:none;fill:#021131;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <g
        id="g2556"
        transform="matrix(1.0581699,-0.28353577,0.28353577,1.0581699,1233.3651,146.25422)"
@@ -3364,7 +3364,7 @@
          y="-365.43872" />
     </g>
     <rect
-       style="opacity:1;vector-effect:none;fill:#021131;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect2980"
        width="224.89583"
        height="126.50391"
@@ -3660,7 +3660,7 @@
          y="-365.43872" />
     </g>
     <rect
-       style="opacity:1;vector-effect:none;fill:#021131;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect3858"
        width="224.89583"
        height="126.50391"
@@ -3961,7 +3961,7 @@
        height="126.50391"
        width="224.89583"
        id="rect4072"
-       style="opacity:1;vector-effect:none;fill:#021131;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <g
        id="g4084"
        transform="matrix(1.0581699,-0.28353577,0.28353577,1.0581699,1531.8151,371.906)"
@@ -3998,7 +3998,7 @@
        x="973.12677"
        y="-552.69757" />
     <flowRoot
-       transform="matrix(1.3524139,0,0,1.3524139,1161.7976,-33.632979)"
+       transform="matrix(1.3524139,0,0,1.3524139,1161.7976,-44.96668)"
        id="flowRoot3866-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29576746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><flowRegion
@@ -4016,7 +4016,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Techna;-inkscape-font-specification:Techna;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29576746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="flowPara5276">PQRSTUVWXYZ</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Techna;-inkscape-font-specification:Techna;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29576746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowPara5278">abcdefghilmnopqrstuv</flowPara></flowRoot>    <g
+         id="flowPara5278">abcdefghijklmno</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Techna;-inkscape-font-specification:Techna;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29576746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowPara5316">pqrstuvwxyz</flowPara></flowRoot>    <g
        style="fill:#ffffff"
        clip-path="url(#clipPath17957)"
        transform="matrix(1.0581699,-0.28353577,0.28353577,1.0581699,1531.8151,-605.17268)"
@@ -4596,7 +4598,7 @@
        transform="matrix(1.0581699,-0.28353577,0.28353577,1.0581699,1531.8151,-425.37336)"
        id="g8366">
       <flowRoot
-         transform="rotate(15,137.07826,-1503.2999)"
+         transform="rotate(15,3.1585142,-1520.9308)"
          id="flowRoot8362"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.91492558px;line-height:17.63888931px;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.36513072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><flowRegion
@@ -4609,7 +4611,7 @@
              y="0"
              x="0" /></flowRegion><flowPara
            id="flowPara8360"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.91492558px;line-height:17.63888931px;font-family:Techna;-inkscape-font-specification:Techna;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.36513072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">DARED FRUCTIFIED TI TASTE PROPELLER PREFERRED HEDONIST VIGILANTE RELEASE PODDED COAGULATE SURFING UGH SCALPER EVICTION CATAPULTED STOUT LATHE RUBBLE PROTEST PUFFIEST CARAVAN APRICOT RATTIEST POSSIBLE CUDDLE OVERACT DETONATION ASSURED BEHEAD SPOTTED HELPED GARROTTE BOARD CORDING SNAILING AQUAPLANED PUNIEST PETITE UNFOLD LOVELIER STAGGER OPTIONING PALAVER CAUTIONING PLEA BETTER FOREHEAD PROFILE INTESTATE GRATER DISPORTING GREASE CAHOOT SOUNDING STEELING SALVO RELEGATION PINGING ABUNDANCE CHEAPER GUILE GLISTENING PILLAGING HONCHO ARRIVAL DOCTORAL PUBESCENCE VICTUALED CARVED BALLOONED PI SENTIENCE GASHED PATELLA STARRING CALCINED HOSPICE LOOSEST DIAL GNASHED RETRACTED DEFUSED LINING CONNECTER SARCOPHAGI SPOILED STRIPT BELITTLED REVEALED TUSSLING SCHROD BERET GIBBET SOLACED SARI PEASE EPICENTER APPALL SLIGHTEST FULCRA URINATION RECHARGED SQUINTED DETERGENT CAPTURE RETARDANT CHAPPED TORN OVERDONE TITHED ARRESTED CONSONANCE ENCASE DEVIATING NEBULAR INFUSED THEE SCARRED HALLELUIAH DRILL ALLURING PROF GROUCH VIGILANCE URETHRA INUNDATING FILBERT DRIVELED AFFLUENCE USURPER SPARSER GROUSING SCUFFLING ASSURING BEEN PATCHING OPERATION SCANNED EFFULGENT ANTHRACITE STUPIDEST QUID PLACER SOUTHERN ANTELOPE ARTIFICIAL LOPE BUTCHERING ABANDONING LEPER GARBAGE HOSPITABLE INSULTING GRANT HOLLERING UTERINE SILICON DRAGON PAGINATING SLITHERING POLAR STEAD GRADUATED VEGETATIVE SLIPCOVER PROSCRIBE REVENGE SUNBATHE GRAPNEL GOSSIP ESCAPE BONGED DANDER SOUNDPROOF HAVEN PRITHEE VAIN QUITTING CONTUSE RUBBING FAILED CANCELED RELEVANT SCOURGE CAPRICE INTENDED ANTIHERO DISCLOSURE PARACHUTED OUTSTRIP SNAGGING FURNISHED CATNAP ENTREAT SLUR ATTRACT SIGH PREVAILED POSTHASTE DISTRESSED AFFECT LACQUERING SEARCHER SUP VASSAL FUNCTION SEDGE ANCHORITE SUBORN BOOT CODDED BUBBLIER CHEESED CHILDBIRTH NURSED DEFTEST DESPISED CAPTOR HEIR SPRINTING BENCHED CURB DECISION BALUSTER CORRELATE BEER CANTER RESTIVE DECISIVE FURLOUGH OVULATION VALUE PALING DUFFER ASTUTE RESTFUL VEGAN CHANGING FUNGICIDE EEL HONORABLE COSTARRED RECEDE BOG RINGSIDE IDEA OFFENSIVE SINGLETON CATNAPPING</flowPara></flowRoot>      <rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.91492558px;line-height:17.63888931px;font-family:Techna;-inkscape-font-specification:Techna;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.36513072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">METRIC GAMED HINDRANCE MANY TIPPING RELUCTANCE HOLIER TINNED AUTHORITY NEIGHING BUCKSAW ENVOY ACERBITY TECHNA ENTITLE PEEVE VERILY ANKLET DOUBTFUL  PLUN KING SANS SERIF PIERCED MICROCODE TWEETED REQUIRING TYPEFACE PEBBLED COMPOST INTERVAL ZCRIDERING BY GEM DISTILLING PERSONABLE LADLED IIiIELLEBORE CARL ENLUND COWED UNRESERVED CRASHED DEJECTION TECHNA SMARTLY MAMMARY FIBROID YACHTSMEN HENCEFORTH FLIMSIER TUFTED VEER CAROUSAL BLINDING ANNULAR RAVEL SCURFIEST</flowPara></flowRoot>      <rect
          y="-365.43872"
          x="-126.19712"
          height="316.98163"
@@ -4915,7 +4917,7 @@
              width="100%"
              height="100%" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Techna;-inkscape-font-specification:Techna;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.36513072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="flowPara10395">dared fructified ti taste propeller preferred hedonist vigilante release podded coagulate surfing ugh scalper eviction catapulted stout lathe rubble protest puffiest caravan apricot rattiest possible cuddle overact detonation assured behead spotted helped garrotte board cording snailing aquaplaned puniest petite unfold lovelier stagger optioning palaver cautioning plea bestial forehead profile intestate grater disporting grease cahoot sounding steeling salvo relegation pinging abundance cheaper guile glistening pillaging honcho arrival doctoral pubescence victualed carved ballooned pi sentience gashed patella starring calcined hospice loosest dial gnashed retracted defused lining connecter sarcophagi spoiled stript belittled revealed tussling schrod beret gibbet solaced sari pease epicenter appall slightest fulcra urination recharged squinted detergent capture retardant chapped torn overdone tithed arrested consonance encase deviating nebular infused thee scarred halleluiah drill alluring prof grouch vigilance urethra inundating filbert driveled affluence usurper sparser grousing scuffling assuring been patching operation scanned effulgent anthracite stupidest quid placer southern antelope artificial lope butchering abandoning leper garbage hospitable insulting grant hollering uterine silicon dragon paginating slithering polar stead graduated vegetative slipcover proscribe revenge sunbathe grapnel gossip escape bonged dander soundproof haven prithee vain quitting contuse rubbing failed canceled relevant scourge caprice intended antihero disclosure parachuted outstrip snagging furnished catnap entreat slur attract sigh prevailed posthaste distressed affect lacquering searcher sup vassal function sedge anchorite suborn boot codded bubblier cheesed childbirth nursed deftest despised captor heir sprinting benched curb decision baluster correlate beer canter restive decisive furlough ovulation value paling duffer astute restful vegan changing fungicide eel honorable costarred recede bog ringside idea offensive singleton catnapping</flowPara></flowRoot>      <rect
+           id="flowPara10395">birded bind sustaining fabricate violation heaving subliminal dimer body pence slowpoke freakish cooed convulsed abuse apparelled diamond candle trinity symbolize tapioca hived stoneware loom endeavored worrisome step tarred rescission rocking inhibiting pluralized obdurately prenatal chirrup drunkenly emceed stepladder flanked muscat saleswoman mnemonic corollary big mention mocha dehydrated bracketing veering clayey tubby matted affiliated from dualism glutting chugging telephoned kilometer snitching sexpot polyester parboiled rennet renaming believer whore moussed whiz placing lest perching surgery hounding blonde jigged pinkie tautology schemed teacup gossip born horror formulaic rutting verity leveraged obtrude graphed actualized homemade hi weather brag fettered mimetic anatomical socialized intellect gigantic insulator amp gherkin stabbed chortle madwomen southwest boor inputted internal feelingly thirstiest engorged eking bat outcast congest hosed ray stovepipe marbled sketched teetotal cooked criteria asymptotic craftily culprit mousy </flowPara></flowRoot>      <rect
          transform="rotate(-15)"
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.79778981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          id="rect10399"
