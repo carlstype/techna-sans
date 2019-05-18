@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1558185267
+ModificationTime: 1558186731
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 9
+WinInfo: 0 11 19
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -742,19 +742,19 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-150 0 m 5
- 1 0 l 5
- 205.015625 355.854492188 l 5
- 18 688 l 5
- 172 688 l 5
- 301.1953125 449.426757812 l 5
- 432 688 l 5
- 580 688 l 5
- 389.020507812 357.194335938 l 5
- 593 0 l 5
- 440 0 l 5
- 292.840820312 263.62109375 l 5
- 150 0 l 5
+150 0 m 1
+ 1 0 l 1
+ 205.015625 355.854492188 l 1
+ 18 688 l 1
+ 172 688 l 1
+ 301.1953125 449.426757812 l 1
+ 432 688 l 1
+ 580 688 l 1
+ 389.020507812 357.194335938 l 1
+ 593 0 l 1
+ 440 0 l 1
+ 292.840820312 263.62109375 l 1
+ 150 0 l 1
 EndSplineSet
 EndChar
 
@@ -1440,7 +1440,7 @@ StartChar: j
 Encoding: 106 106 49
 Width: 229
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1521,22 +1521,38 @@ EndChar
 
 StartChar: x
 Encoding: 120 120 52
-Width: 588
+Width: 502
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
+Back
+SplineSet
+144 0 m 5
+ 0 0 l 5
+ 348 503 l 5
+ 491 503 l 5
+ 144 0 l 5
+354 0 m 5
+ 15 503 l 5
+ 164 503 l 5
+ 502 0 l 5
+ 354 0 l 5
+EndSplineSet
 Fore
 SplineSet
-150 0 m 5
- 1 0 l 5
- 432 688 l 5
- 580 688 l 5
- 150 0 l 5
-440 0 m 5
- 18 688 l 5
- 172 688 l 5
- 593 0 l 5
- 440 0 l 5
+144 0 m 1
+ 0 0 l 1
+ 169.318359375 259.1875 l 5
+ 15 503 l 1
+ 164 503 l 1
+ 254.659179688 350.084960938 l 1
+ 348 503 l 1
+ 491 503 l 1
+ 335.3515625 262.881835938 l 1
+ 502 0 l 1
+ 354 0 l 1
+ 250.224609375 171.979492188 l 1
+ 144 0 l 1
 EndSplineSet
 EndChar
 
@@ -1548,17 +1564,18 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-331 50 m 2
- 281 -98.2870813397 244 -158 125 -158 c 3
- 86 -158 51 -149.363636364 33 -139 c 1
- 33 -24 l 1
- 58 -35.2272727273 88 -43 115 -43 c 3
- 163 -43 184 -12.4920634921 187 19 c 2
- 190 50 l 1
+319.458984375 16.501953125 m 2
+ 280 -99 232.135144292 -158 125 -158 c 3
+ 86 -158 51 -149 33 -139 c 1
+ 33 -26 l 1
+ 54 -35 83 -43 109 -43 c 3
+ 158.692307692 -43 180.619242579 -14.9508700102 185 19 c 2
+ 189 50 l 1
  214 50 l 1
  352 503 l 1
  483 503 l 1
- 331 50 l 2
+ 331 50 l 1
+ 319.458984375 16.501953125 l 2
 169 50 m 1
  8 503 l 1
  149 503 l 1
