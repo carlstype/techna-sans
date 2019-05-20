@@ -22,18 +22,6 @@
    width="1920">
   <defs
      id="defs1295">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2077">
-      <stop
-         style="stop-color:#00ffe5;stop-opacity:1"
-         offset="0"
-         id="stop2073" />
-      <stop
-         style="stop-color:#00ff55;stop-opacity:1"
-         offset="1"
-         id="stop2075" />
-    </linearGradient>
     <g
        id="g1916">
       <symbol
@@ -1746,26 +1734,6 @@
          id="path1630"
          d="M -0.0395508,980.001 H 1400.04 V 0.631836 H -0.0395508 Z" />
     </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2077"
-       id="linearGradient2081"
-       gradientUnits="userSpaceOnUse"
-       x1="943.97723"
-       y1="-288.84302"
-       x2="943.97723"
-       y2="-96.435455"
-       gradientTransform="translate(1.0583333,0.166451)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2077"
-       id="linearGradient2083"
-       gradientUnits="userSpaceOnUse"
-       x1="943.97723"
-       y1="-288.84302"
-       x2="943.97723"
-       y2="-96.435455"
-       gradientTransform="translate(-1.0583333,0.166451)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1774,9 +1742,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="584.5778"
-     inkscape:cy="381.92072"
+     inkscape:zoom="0.25"
+     inkscape:cx="158.05759"
+     inkscape:cy="702.14025"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1797,7 +1765,7 @@
      inkscape:snap-bbox-midpoints="true"
      units="px"
      inkscape:snap-text-baseline="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
      borderlayer="true"
@@ -1819,10 +1787,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-677.10028,333.3229)">
+    <path
+       style="opacity:1;vector-effect:none;fill:#e0e0e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027769;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       clip-path="none"
+       d="M 677.10029,-333.32291 H 1185.1003 V -47.572889 H 677.10029 Z"
+       id="path4022"
+       inkscape:connector-curvature="0" />
     <g
        id="g3881"
        clip-path="url(#clipPath3883)"
-       transform="translate(-7.0773438e-5,8.2296875e-5)"
+       transform="translate(-7.0773438e-5,8.125e-5)"
        style="fill:#00343a;fill-opacity:1">
       <rect
          clip-path="none"
@@ -1859,93 +1833,101 @@
          x="397.30334"
          y="-258.31354"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Techna;-inkscape-font-specification:Techna;fill:#ffffff;stroke-width:0.26458332px">asdf</tspan></text>
-    <path
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027769;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       clip-path="none"
-       d="M 677.10027,-333.3229 H 1185.1003 V -47.572889 H 677.10027 Z"
-       id="rect3859-3"
-       inkscape:connector-curvature="0" />
     <g
-       id="g2181"
-       transform="translate(0,1.058331)"
-       style="fill:#00ff7c;fill-opacity:1">
+       id="g4318"
+       transform="translate(0,-22.588496)"
+       style="fill:#de0606;fill-opacity:1">
+      <text
+         id="text2411"
+         y="-258.69641"
+         x="816.87085"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.42076111px;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#de0606;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           y="-258.69641"
+           x="816.87085"
+           sodipodi:role="line"
+           id="tspan2399">Repressurization</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.08246105px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           y="-218.97838"
+           x="816.91211"
+           sodipodi:role="line"
+           id="tspan2401">Counterexample</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.27759314px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           y="-179.26036"
+           x="817.00964"
+           sodipodi:role="line"
+           id="tspan2403"
+           dx="0">Uncontaminated</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.13431928px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           y="-139.54233"
+           x="816.93799"
+           sodipodi:role="line"
+           id="tspan2405">Ambassadorship</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.29550242px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           y="-99.824295"
+           x="817.01862"
+           sodipodi:role="line"
+           id="tspan2407">Discombobulate</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.238125px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           y="-60.10627"
+           x="816.98993"
+           sodipodi:role="line"
+           id="tspan4284"
+           dx="0 0 0 0 0 0 0 0 -0.66145831">Choreographing</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.16883624px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           y="-20.388243"
+           x="816.87085"
+           sodipodi:role="line"
+           id="tspan2409" /></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.58694077px;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#00ff7c;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="819.20233"
-         y="-257.49942"
-         id="text1593"><tspan
-           id="tspan1594"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.42076111px;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#de0606;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1045.6299"
+         y="-258.69641"
+         id="text2427"><tspan
+           id="tspan2413"
            sodipodi:role="line"
-           x="819.20233"
-           y="-257.49942"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px">Repressurization</tspan><tspan
-           id="tspan1585"
+           x="1048.5604"
+           y="-258.69641"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           dx="0 -0.45127892 0 0 0 -1.1206379">CONSTABULARY </tspan><tspan
+           id="tspan2415"
            sodipodi:role="line"
-           x="819.24237"
-           y="-220.3364"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.08012401px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px">Counterexample</tspan><tspan
-           dx="0"
-           id="tspan1933"
+           x="1045.6711"
+           y="-218.97838"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.08246105px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           dx="0 0 0 0 0 0 -0.45283392">PRERECORDING</tspan><tspan
+           id="tspan2417"
            sodipodi:role="line"
-           x="819.33722"
-           y="-183.17337"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.2697258px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px">Uncontaminated</tspan><tspan
-           id="tspan1589"
+           x="1045.8368"
+           y="-179.26036"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.41389704px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px">IMMEASURABLE</tspan><tspan
+           id="tspan2423"
            sodipodi:role="line"
-           x="819.26758"
-           y="-146.01036"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.13051249px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px">Ambassadorship</tspan><tspan
-           id="tspan1923"
+           x="1048.6948"
+           y="-139.54233"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.13431928px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"><tspan
+   style="line-height:135.00000238%;letter-spacing:0.41389704px;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+   id="tspan2419">EXTROVERSION</tspan> </tspan><tspan
            sodipodi:role="line"
-           x="819.34589"
-           y="-108.84734"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.28712749px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px">Discombobulate</tspan><tspan
-           id="tspan1626"
+           x="1048.5604"
+           y="-99.824295"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           id="tspan4320"><tspan
+   style="line-height:135.00000238%;letter-spacing:0.079375px;fill:#de0606;fill-opacity:1"
+   id="tspan4332"
+   dx="0 0 0 -0.44999999 0 0 -0.93544334">INCOMPARABLE</tspan> </tspan><tspan
            sodipodi:role="line"
-           x="819.20233"
-           y="-71.684311"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.16405119px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px" /></text>
-      <text
-         id="text2018"
-         y="-257.49942"
-         x="1043.3041"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.58694077px;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#00ff7c;fill-opacity:1;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           dx="0 -0.43848911 0 0 0 -1.0888776"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px"
-           y="-257.49942"
-           x="1046.1516"
+           x="1045.7781"
+           y="-60.10627"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.29633334px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px"
+           id="tspan4358">OVERSPENDING</tspan><tspan
+           id="tspan2425"
            sodipodi:role="line"
-           id="tspan2006">CONSTABULARY </tspan><tspan
-           dx="0 0 0 0 0 0 -0.44"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.08012401px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px"
-           y="-220.3364"
-           x="1043.3441"
-           sodipodi:role="line"
-           id="tspan2008">PRERECORDING</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.40216666px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px"
-           y="-183.17337"
-           x="1043.5051"
-           sodipodi:role="line"
-           id="tspan2010">IMMEASURABLE</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.13051249px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px"
-           y="-146.01036"
-           x="1046.2821"
-           sodipodi:role="line"
-           id="tspan2012"><tspan
-   id="tspan2052"
-   style="line-height:129.99999523%;letter-spacing:0.40216666px;fill:#00ff7c;fill-opacity:1">EXTROVERSION</tspan> </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.28712749px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px"
-           y="-108.84734"
-           x="1043.4476"
-           sodipodi:role="line"
-           id="tspan2014">OVERSPENDING</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.16405119px;text-anchor:middle;fill:#00ff7c;fill-opacity:1;stroke-width:0.26458329px"
-           y="-71.684311"
-           x="1043.3041"
-           sodipodi:role="line"
-           id="tspan2016" /></text>
+           x="1045.6299"
+           y="-20.388243"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:Techna;-inkscape-font-specification:Techna;text-align:center;letter-spacing:0.16883624px;text-anchor:middle;fill:#de0606;fill-opacity:1;stroke-width:0.26458329px" /></text>
     </g>
   </g>
 </svg>
