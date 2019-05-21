@@ -14,7 +14,7 @@
    inkscape:export-xdpi="96"
    inkscape:export-filename="/home/carl/doc/design-tests/techna-typeface/specimen-1.png"
    sodipodi:docname="specimen.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    id="svg1301"
    version="1.1"
    viewBox="0 0 508.00008 285.75006"
@@ -1764,15 +1764,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25102291"
-     inkscape:cx="-1036.9141"
-     inkscape:cy="964.71607"
+     inkscape:cx="715.91396"
+     inkscape:cy="-310.06797"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3768"
-     inkscape:window-height="2032"
-     inkscape:window-x="32"
-     inkscape:window-y="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1799,7 +1799,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2256,5 +2256,16 @@
            id="tspan2858"
            style="stroke:none;stroke-width:2.99999976">-</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.57915115px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61447877"
+       x="1273.4657"
+       y="202.16599"
+       id="text1687"><tspan
+         sodipodi:role="line"
+         id="tspan1685"
+         x="1273.4657"
+         y="202.16599"
+         style="stroke-width:0.61447877">hot text instead?</tspan></text>
   </g>
 </svg>
