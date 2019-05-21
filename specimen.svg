@@ -1763,9 +1763,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1482.1053"
-     inkscape:cy="12.645562"
+     inkscape:zoom="0.58962394"
+     inkscape:cx="633.3383"
+     inkscape:cy="340.33036"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1809,80 +1809,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1292.2478,-51.724114)">
+     transform="translate(-1295.4228,-431.66578)">
     <path
        inkscape:connector-curvature="0"
        id="path2073"
        d="m 677.10029,1259.7446 h 508.00001 v 285.75 H 677.10029 Z"
        clip-path="none"
        style="opacity:1;vector-effect:none;fill:#010300;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32027769;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path2695"
-       d="M 677.10029,431.66578 H 1185.1003 V 717.41587 H 677.10029 Z"
-       clip-path="none"
-       style="opacity:1;vector-effect:none;fill:#ffe2f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <g
        aria-label="-"
        transform="matrix(0.9994482,0,0,-1.0005521,-5.0705352,0.92226808)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:166.55210876px;line-height:100%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.72983503px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#f20000;fill-opacity:1;stroke:none;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="text2860" />
-    <g
-       id="g2657"
-       transform="translate(0.37417734,-2.6004381)"
-       style="fill:#ff00b1;fill-opacity:1">
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="705.29504"
-         y="527.87695"
-         id="text2775"><tspan
-           dx="-10.688233 0 2.6692805 0.60000002 0 0.10724926"
-           sodipodi:role="line"
-           x="705.29504"
-           y="527.87695"
-           id="tspan2773"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
-           dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805"
-           id="tspan2373"
-           sodipodi:role="line"
-           x="705.29504"
-           y="610.09644"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928">Sans</tspan></text>
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="1154.7708"
-         y="610.09473"
-         id="text2637"><tspan
-           dx="0 1.9866581 0 1.1401961"
-           id="tspan2633"
-           sodipodi:role="line"
-           x="1150.9803"
-           y="610.09473"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928">carl</tspan><tspan
-           dx="0 0 0 0 0 0 0 0 2.6692805"
-           sodipodi:role="line"
-           x="1150.9803"
-           y="692.31421"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           id="tspan2635">enlund</tspan></text>
-      <text
-         id="text2643"
-         y="593.98853"
-         x="954.1474"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.9994482,1.0005521)"><tspan
-           id="tspan2641"
-           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999905"
-           y="593.98853"
-           x="954.1474"
-           sodipodi:role="line"
-           dx="0 0 0 0 0.95101684">BY</tspan></text>
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.57849503px;line-height:120.00000477%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0.26458332px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1956,7 +1894,7 @@
          sodipodi:role="line"
          id="tspan1649">SANS-SERIFS</tspan></text>
     <path
-       style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        clip-path="none"
        d="m 1295.4228,431.66578 h 508 v 285.75009 h -508 z"
        id="path1613"
@@ -2019,68 +1957,6 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       id="path1633"
-       d="m 1292.2478,797.84911 h 508 v 285.75009 h -508 z"
-       clip-path="none"
-       style="opacity:1;vector-effect:none;fill:#483737;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-    <g
-       id="g1652"
-       transform="translate(615.52172,363.5829)"
-       style="fill:#ffffff;fill-opacity:1">
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="705.29504"
-         y="527.87695"
-         id="text1639"><tspan
-           dx="-10.688233 0 2.6692805 0.60000002 0 0.10724926"
-           sodipodi:role="line"
-           x="705.29504"
-           y="527.87695"
-           id="tspan1635"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
-           dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805"
-           id="tspan1637"
-           sodipodi:role="line"
-           x="705.29504"
-           y="610.09644"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928">Sans</tspan></text>
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="1154.7708"
-         y="610.09473"
-         id="text1646"><tspan
-           dx="0 1.9866581 0 1.1401961"
-           id="tspan1642"
-           sodipodi:role="line"
-           x="1150.9803"
-           y="610.09473"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928">carl</tspan><tspan
-           dx="0 0 0 0 0 0 0 0 2.6692805"
-           sodipodi:role="line"
-           x="1150.9803"
-           y="692.31421"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           id="tspan1644">enlund</tspan></text>
-      <text
-         id="text1650"
-         y="593.98853"
-         x="954.1474"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.9994482,1.0005521)"><tspan
-           id="tspan1648"
-           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999905"
-           y="593.98853"
-           x="954.1474"
-           sodipodi:role="line"
-           dx="0 0 0 0 0.95101684">BY</tspan></text>
-    </g>
-    <path
-       inkscape:connector-curvature="0"
        id="path1654"
        d="m 1292.2478,51.724114 h 508 V 337.4742 h -508 z"
        clip-path="none"
@@ -2088,11 +1964,11 @@
     <g
        id="g1672"
        transform="translate(615.52172,-382.5421)"
-       style="fill:#008dff;fill-opacity:1">
+       style="fill:#ffff00;fill-opacity:1">
       <text
          transform="scale(0.9994482,1.0005521)"
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#008dff;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          x="705.29504"
          y="527.87695"
          id="text1660"><tspan
@@ -2101,257 +1977,9 @@
            x="705.29504"
            y="527.87695"
            id="tspan1656"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#008dff;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
-           dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805"
-           id="tspan1658"
-           sodipodi:role="line"
-           x="705.29504"
-           y="610.09644"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#008dff;fill-opacity:1;stroke:none;stroke-width:2.99999928">Sans</tspan></text>
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#008dff;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="1154.7708"
-         y="610.09473"
-         id="text1666"><tspan
-           dx="0 1.9866581 0 1.1401961"
-           id="tspan1662"
-           sodipodi:role="line"
-           x="1150.9803"
-           y="610.09473"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#008dff;fill-opacity:1;stroke:none;stroke-width:2.99999928">carl</tspan><tspan
-           dx="0 0 0 0 0 0 0 0 2.6692805"
-           sodipodi:role="line"
-           x="1150.9803"
-           y="692.31421"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#008dff;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           id="tspan1664">enlund</tspan></text>
-      <text
-         id="text1670"
-         y="593.98853"
-         x="954.1474"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#008dff;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.9994482,1.0005521)"><tspan
-           id="tspan1668"
-           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#008dff;fill-opacity:1;stroke:none;stroke-width:2.99999905"
-           y="593.98853"
-           x="954.1474"
-           sodipodi:role="line"
-           dx="0 0 0 0 0.95101684">BY</tspan></text>
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path1674"
-       d="m 1911.1371,431.66578 h 508 v 285.75009 h -508 z"
-       clip-path="none"
-       style="opacity:1;vector-effect:none;fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-    <g
-       id="g1692"
-       transform="translate(1234.411,-2.6004381)"
-       style="fill:#ffffff;fill-opacity:1">
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="705.29504"
-         y="527.87695"
-         id="text1680"><tspan
-           dx="-10.688233 0 2.6692805 0.60000002 0 0.10724926"
-           sodipodi:role="line"
-           x="705.29504"
-           y="527.87695"
-           id="tspan1676"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
-           dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805"
-           id="tspan1678"
-           sodipodi:role="line"
-           x="705.29504"
-           y="610.09644"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928">Sans</tspan></text>
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="1154.7708"
-         y="610.09473"
-         id="text1686"><tspan
-           dx="0 1.9866581 0 1.1401961"
-           id="tspan1682"
-           sodipodi:role="line"
-           x="1150.9803"
-           y="610.09473"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928">carl</tspan><tspan
-           dx="0 0 0 0 0 0 0 0 2.6692805"
-           sodipodi:role="line"
-           x="1150.9803"
-           y="692.31421"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           id="tspan1684">enlund</tspan></text>
-      <text
-         id="text1690"
-         y="593.98853"
-         x="954.1474"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.9994482,1.0005521)"><tspan
-           id="tspan1688"
-           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999905"
-           y="593.98853"
-           x="954.1474"
-           sodipodi:role="line"
-           dx="0 0 0 0 0.95101684">BY</tspan></text>
-    </g>
-    <path
-       style="opacity:1;vector-effect:none;fill:#24ff24;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       clip-path="none"
-       d="m 1911.1371,797.61122 h 508 v 285.75008 h -508 z"
-       id="path1694"
-       inkscape:connector-curvature="0" />
-    <g
-       style="fill:#000000;fill-opacity:1"
-       transform="translate(1234.411,363.345)"
-       id="g1712">
-      <text
-         id="text1700"
-         y="527.87695"
-         x="705.29504"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.9994482,1.0005521)"><tspan
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           id="tspan1696"
-           y="527.87695"
-           x="705.29504"
-           sodipodi:role="line"
-           dx="-10.688233 0 2.6692805 0.60000002 0 0.10724926">Techna</tspan><tspan
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           y="610.09644"
-           x="705.29504"
-           sodipodi:role="line"
-           id="tspan1698"
-           dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805">Sans</tspan></text>
-      <text
-         id="text1706"
-         y="610.09473"
-         x="1154.7708"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.9994482,1.0005521)"><tspan
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           y="610.09473"
-           x="1150.9803"
-           sodipodi:role="line"
-           id="tspan1702"
-           dx="0 1.9866581 0 1.1401961">carl</tspan><tspan
-           id="tspan1704"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           y="692.31421"
-           x="1150.9803"
-           sodipodi:role="line"
-           dx="0 0 0 0 0 0 0 0 2.6692805">enlund</tspan></text>
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="954.1474"
-         y="593.98853"
-         id="text1710"><tspan
-           dx="0 0 0 0 0.95101684"
-           sodipodi:role="line"
-           x="954.1474"
-           y="593.98853"
-           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99999905"
-           id="tspan1708">BY</tspan></text>
-    </g>
-    <path
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       clip-path="none"
-       d="m 1910.3145,51.724114 h 508 V 337.4742 h -508 z"
-       id="path1714"
-       inkscape:connector-curvature="0" />
-    <g
-       style="fill:#fa412b;fill-opacity:1"
-       transform="translate(1233.5884,-382.5421)"
-       id="g1732">
-      <text
-         id="text1720"
-         y="527.87695"
-         x="705.29504"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#fa412b;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.9994482,1.0005521)"><tspan
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#fa412b;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           id="tspan1716"
-           y="527.87695"
-           x="705.29504"
-           sodipodi:role="line"
-           dx="-10.688233 0 2.6692805 0.60000002 0 0.10724926">Techna</tspan><tspan
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#fa412b;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           y="610.09644"
-           x="705.29504"
-           sodipodi:role="line"
-           id="tspan1718"
-           dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805">Sans</tspan></text>
-      <text
-         id="text1726"
-         y="610.09473"
-         x="1154.7708"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#fa412b;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"
-         transform="scale(0.9994482,1.0005521)"><tspan
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#fa412b;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           y="610.09473"
-           x="1150.9803"
-           sodipodi:role="line"
-           id="tspan1722"
-           dx="0 1.9866581 0 1.1401961">carl</tspan><tspan
-           id="tspan1724"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#fa412b;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           y="692.31421"
-           x="1150.9803"
-           sodipodi:role="line"
-           dx="0 0 0 0 0 0 0 0 2.6692805">enlund</tspan></text>
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#fa412b;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="954.1474"
-         y="593.98853"
-         id="text1730"><tspan
-           dx="0 0 0 0 0.95101684"
-           sodipodi:role="line"
-           x="954.1474"
-           y="593.98853"
-           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#fa412b;fill-opacity:1;stroke:none;stroke-width:2.99999905"
-           id="tspan1728">BY</tspan></text>
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path1734"
-       d="m 1910.3145,-303.87589 h 508 V -18.1258 h -508 z"
-       clip-path="none"
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-    <g
-       id="g1752"
-       transform="translate(1233.5884,-738.1421)"
-       style="fill:#ffff00;fill-opacity:1">
-      <text
-         transform="scale(0.9994482,1.0005521)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="705.29504"
-         y="527.87695"
-         id="text1740"><tspan
-           dx="-10.688233 0 2.6692805 0.60000002 0 0.10724926"
-           sodipodi:role="line"
-           x="705.29504"
-           y="527.87695"
-           id="tspan1736"
            style="line-height:75%;letter-spacing:-3.79037833px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
            dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805"
-           id="tspan1738"
+           id="tspan1658"
            sodipodi:role="line"
            x="705.29504"
            y="610.09644"
@@ -2362,9 +1990,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          x="1154.7708"
          y="610.09473"
-         id="text1746"><tspan
+         id="text1666"><tspan
            dx="0 1.9866581 0 1.1401961"
-           id="tspan1742"
+           id="tspan1662"
            sodipodi:role="line"
            x="1150.9803"
            y="610.09473"
@@ -2374,35 +2002,159 @@
            x="1150.9803"
            y="692.31421"
            style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928"
-           id="tspan1744">enlund</tspan></text>
+           id="tspan1664">enlund</tspan></text>
       <text
-         id="text1750"
+         id="text1670"
          y="593.98853"
-         x="954.33459"
+         x="954.1474"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"
          transform="scale(0.9994482,1.0005521)"><tspan
-           id="tspan1748"
+           id="tspan1668"
            style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999905"
            y="593.98853"
-           x="954.33459"
+           x="954.1474"
            sodipodi:role="line"
            dx="0 0 0 0 0.95101684">BY</tspan></text>
     </g>
     <path
        inkscape:connector-curvature="0"
-       id="path1755"
-       d="m 2483.5542,51.724114 h 508 V 337.4742 h -508 z"
+       id="path1860"
+       d="M 632.08245,436.95745 H 1140.0825 V 722.7075 H 632.08245 Z"
        clip-path="none"
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="opacity:1;vector-effect:none;fill:#ffe2f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <g
-       id="g1773"
-       transform="translate(1806.8281,-382.5421)"
-       style="fill:#ec9703;fill-opacity:1">
+       id="g1878"
+       transform="translate(-44.643662,2.6912304)"
+       style="fill:#ff00b1;fill-opacity:1">
       <text
          transform="scale(0.9994482,1.0005521)"
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ec9703;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="705.29504"
+         y="527.87695"
+         id="text1866"><tspan
+           dx="-10.688233 0 2.6692805 0.60000002 0 0.10724926"
+           sodipodi:role="line"
+           x="705.29504"
+           y="527.87695"
+           id="tspan1862"
+           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
+           dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805"
+           id="tspan1864"
+           sodipodi:role="line"
+           x="705.29504"
+           y="610.09644"
+           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928">Sans</tspan></text>
+      <text
+         transform="scale(0.9994482,1.0005521)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="1154.7708"
+         y="610.09473"
+         id="text1872"><tspan
+           dx="0 1.9866581 0 1.1401961"
+           id="tspan1868"
+           sodipodi:role="line"
+           x="1150.9803"
+           y="610.09473"
+           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928">carl</tspan><tspan
+           dx="0 0 0 0 0 0 0 0 2.6692805"
+           sodipodi:role="line"
+           x="1150.9803"
+           y="692.31421"
+           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999928"
+           id="tspan1870">enlund</tspan></text>
+      <text
+         id="text1876"
+         y="593.98853"
+         x="954.1474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.9994482,1.0005521)"><tspan
+           id="tspan1874"
+           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ff00b1;fill-opacity:1;stroke:none;stroke-width:2.99999905"
+           y="593.98853"
+           x="954.1474"
+           sodipodi:role="line"
+           dx="0 0 0 0 0.95101684">BY</tspan></text>
+    </g>
+    <path
+       style="opacity:1;vector-effect:none;fill:#0000c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       clip-path="none"
+       d="m 1918.6207,51.724114 h 508 V 337.4742 h -508 z"
+       id="path1922"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(1241.8946,-382.5421)"
+       id="g1940">
+      <text
+         id="text1928"
+         y="527.87695"
+         x="705.29504"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.9994482,1.0005521)"><tspan
+           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928"
+           id="tspan1924"
+           y="527.87695"
+           x="705.29504"
+           sodipodi:role="line"
+           dx="-10.688233 0 2.6692805 0.60000002 0 0.10724926">Techna</tspan><tspan
+           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928"
+           y="610.09644"
+           x="705.29504"
+           sodipodi:role="line"
+           id="tspan1926"
+           dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805">Sans</tspan></text>
+      <text
+         id="text1934"
+         y="610.09473"
+         x="1154.7708"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.9994482,1.0005521)"><tspan
+           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928"
+           y="610.09473"
+           x="1150.9803"
+           sodipodi:role="line"
+           id="tspan1930"
+           dx="0 1.9866581 0 1.1401961">carl</tspan><tspan
+           id="tspan1932"
+           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999928"
+           y="692.31421"
+           x="1150.9803"
+           sodipodi:role="line"
+           dx="0 0 0 0 0 0 0 0 2.6692805">enlund</tspan></text>
+      <text
+         transform="scale(0.9994482,1.0005521)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="954.1474"
+         y="593.98853"
+         id="text1938"><tspan
+           dx="0 0 0 0 0.95101684"
+           sodipodi:role="line"
+           x="954.1474"
+           y="593.98853"
+           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99999905"
+           id="tspan1936">BY</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1755"
+       d="m 1295.4228,850.10128 h 508 v 285.75012 h -508 z"
+       clip-path="none"
+       style="opacity:1;vector-effect:none;fill:#00205a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       id="g1773"
+       transform="translate(616.58005,415.83508)"
+       style="fill:#ffff00;fill-opacity:1">
+      <text
+         transform="scale(0.9994482,1.0005521)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          x="705.29504"
          y="527.87695"
          id="text1761"><tspan
@@ -2411,17 +2163,17 @@
            x="705.29504"
            y="527.87695"
            id="tspan1757"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ec9703;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
+           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
            dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805"
            id="tspan1759"
            sodipodi:role="line"
            x="705.29504"
            y="610.09644"
-           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ec9703;fill-opacity:1;stroke:none;stroke-width:2.99999928">Sans</tspan></text>
+           style="line-height:75%;letter-spacing:-3.79037833px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928">Sans</tspan></text>
       <text
          transform="scale(0.9994482,1.0005521)"
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#ec9703;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          x="1154.7708"
          y="610.09473"
          id="text1767"><tspan
@@ -2430,24 +2182,24 @@
            sodipodi:role="line"
            x="1150.9803"
            y="610.09473"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ec9703;fill-opacity:1;stroke:none;stroke-width:2.99999928">carl</tspan><tspan
+           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928">carl</tspan><tspan
            dx="0 0 0 0 0 0 0 0 2.6692805"
            sodipodi:role="line"
            x="1150.9803"
            y="692.31421"
-           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ec9703;fill-opacity:1;stroke:none;stroke-width:2.99999928"
+           style="line-height:75%;text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999928"
            id="tspan1765">enlund</tspan></text>
       <text
          id="text1771"
          y="593.98853"
-         x="954.14734"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#ec9703;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="954.1474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.05776978px;line-height:75%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"
          transform="scale(0.9994482,1.0005521)"><tspan
            id="tspan1769"
-           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ec9703;fill-opacity:1;stroke:none;stroke-width:2.99999905"
+           style="line-height:75%;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.99999905"
            y="593.98853"
-           x="954.14734"
+           x="954.1474"
            sodipodi:role="line"
            dx="0 0 0 0 0.95101684">BY</tspan></text>
     </g>
