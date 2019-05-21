@@ -178,3 +178,38 @@ var wordss = document.getElementsByClassName('words');
 for (var i = 0, e; e = wordss[i]; ++i) {
   e.innerHTML = wordsHtml;
 }
+
+
+var desiredWidth = 90;
+
+var sortedElements = document.getElementsByClassName('sort');
+Array.from(sortedElements).forEach(function(e, i) {
+  var words = e.innerHTML.split(/\s/g);
+  e.innerHTML = '';
+  var text = '';
+  for (var j = 0; j < words.length; ++j) {
+    var word = document.createElement('span');
+    word.innerHTML = words[j];
+    e.appendChild(word);
+      console.log(word.offsetWidth);
+  }
+
+  window.setTimeout(function() {
+    var sortedWords = Array.from(e.children).sort(function(e1, e2) {
+      var width1 = e1.offsetWidth;
+      var width2 = e2.offsetWidth;
+      return width1 < width2 ? 0 : -1;
+    });
+    for (var i = 0, word; word = sortedWords[i]; ++i) {
+      if (word.offsetWidth > 450) continue;
+      var spacing = 0.05 * (desiredWidth - word.offsetWidth);
+      if (spacing === 0) {
+        word.style.color = 'red';
+      }
+      word.style.letterSpacing = spacing + 'px';
+      e.appendChild(word);
+      e.appendChild(document.createElement('br'));
+      word.classList.add('sort-word');
+    }
+  }, 200);
+});
