@@ -204,7 +204,7 @@ Array.from(sortedElements).forEach(function(e, i) {
       if (word.offsetWidth > 450) continue;
       var spacing = 0.05 * (desiredWidth - word.offsetWidth);
       if (spacing === 0) {
-        word.style.color = 'red';
+        word.style.textDecoration = 'underline';
       }
       word.style.letterSpacing = spacing + 'px';
       e.appendChild(word);

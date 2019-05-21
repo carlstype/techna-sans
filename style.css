@@ -23,18 +23,25 @@ body {
   word-wrap: break-word;
 
   background: #fff;
+  /* background: #eeeeee; */
+
   /* background: #0af50a; */
   /* background: #ff0707; */
   /* background: #fff000; */
   /* background: #00ccff; */
   /* background: #ff00cc; */
+
   color: #000;
+  /* color: #ed1212; */
 }
 
 .dark {
   background: #000;
-  /* background: #0076d6; */
+  /* background: #ed1212; */
+
   color: #fff;
+  /* color: #eeeeee; */
+
   /* color: #0af50a; */
   /* color: #ff0707; */
   /* color: #fff000; */
