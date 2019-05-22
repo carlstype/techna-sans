@@ -12,13 +12,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/carl/doc/design-tests/techna-typeface/specimen-pairings.png"
+   inkscape:export-filename="/home/carl/doc/design-tests/techna-typeface/specimen-title.png"
    sodipodi:docname="specimen.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    id="svg1301"
    version="1.1"
-   viewBox="0 0 508.00012 285.75036"
-   height="11.250011in"
+   viewBox="0 0 508.00012 285.75014"
+   height="11.250003in"
    width="20.000002in">
   <defs
      id="defs1295">
@@ -5091,8 +5091,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22627418"
-     inkscape:cx="621.53923"
-     inkscape:cy="-503.24098"
+     inkscape:cx="-1370.6046"
+     inkscape:cy="1501.4309"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5127,12 +5127,12 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <sodipodi:guide
-       position="1478.2221,-471.99228"
+       position="1478.2222,-1149.3266"
        orientation="1,0"
        id="guide2049"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1511.7085,-387.44968"
+       position="1511.7086,-1064.784"
        orientation="1,0"
        id="guide2051"
        inkscape:locked="false" />
@@ -5153,7 +5153,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(460.23356,-489.8739)">
+     transform="translate(460.23356,187.46002)">
     <g
        aria-label="-"
        transform="matrix(0.9994482,0,0,-1.0005521,-5.0705352,0.92226808)"
@@ -5225,7 +5225,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Techna;-inkscape-font-specification:Techna;fill:#fff1ae;fill-opacity:1;stroke-width:0.26458332px">a</tspan></text>
     <g
        style="fill:#ffffae;fill-opacity:1"
-       transform="translate(-1138.6275,-621.72624)"
+       transform="translate(-1138.6275,-621.93294)"
        id="g2904">
       <text
          id="text2892"
@@ -5280,7 +5280,7 @@
            id="tspan2900">BY</tspan></text>
     </g>
     <g
-       transform="matrix(0.99465007,0,0,0.99465007,121.25156,1.5733161)"
+       transform="matrix(0.99465007,0,0,0.99465007,121.25156,0.74649322)"
        style="fill:#ffffae;fill-opacity:1;stroke-width:1.00537872"
        id="g2928">
       <text
