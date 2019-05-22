@@ -1,9 +1,11 @@
 # Techna Sans
 
-![Specimen title](specimen-title.png)
+![](specimen-title.png)
 
-![Sample text](specimen-sample.png)
+![](specimen-sample.png)
 
-![Typeface details](specimen-details.png)
+![](specimen-details.png)
 
-![Suggested font pairings](specimen-pairings.png)
+## Font pairings
+
+![](specimen-pairings.png)
