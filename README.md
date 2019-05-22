@@ -6,6 +6,4 @@
 
 ![](specimen-details.png)
 
-## Font pairings
-
 ![](specimen-pairings.png)
