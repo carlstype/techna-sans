@@ -2,7 +2,7 @@ var texts = document.getElementsByClassName('random-text');
 for (var i = 0, text; text = texts[i]; ++i) {
   var chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
   var capChars = '';
-  var numChars = '02';
+  var numChars = '01247';
 
   if (text.classList.contains('random-text-caps')) {
     chars = capChars;
