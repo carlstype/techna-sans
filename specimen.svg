@@ -17,9 +17,9 @@
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    id="svg1301"
    version="1.1"
-   viewBox="0 0 508.00012 285.75036"
-   height="11.25001in"
-   width="20.000002in">
+   viewBox="0 0 508.00007 285.75041"
+   height="11.250011in"
+   width="20in">
   <defs
      id="defs1295">
     <marker
@@ -5090,9 +5090,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254835"
-     inkscape:cx="683.93288"
-     inkscape:cy="556.4728"
+     inkscape:zoom="0.64000001"
+     inkscape:cx="984.87014"
+     inkscape:cy="223.4072"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5127,12 +5127,12 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <sodipodi:guide
-       position="1478.2225,-471.99231"
+       position="1478.2225,-133.32513"
        orientation="1,0"
        id="guide2049"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1511.7089,-387.44971"
+       position="1511.7089,-48.782526"
        orientation="1,0"
        id="guide2051"
        inkscape:locked="false" />
@@ -5153,7 +5153,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(460.23356,-489.8739)">
+     transform="translate(460.23354,-828.54095)">
     <g
        aria-label="-"
        transform="matrix(0.9994482,0,0,-1.0005521,-5.0705352,0.92226808)"
@@ -5560,22 +5560,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.80460644px;line-height:117.99999475%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.20817472px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:0.26458314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        x="-423.80359"
-       y="1032.4469"
-       id="text2911"><tspan
+       y="1047.5972"
+       id="text2911-4"><tspan
          sodipodi:role="line"
          x="-423.80359"
-         y="1032.4469"
+         y="1047.5972"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.80460644px;line-height:117.99999475%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.20817472px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:0.26458314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="tspan2926">All typefaces</tspan><tspan
+         id="tspan2945-2">Techna Sans</tspan><tspan
          sodipodi:role="line"
          x="-423.80359"
-         y="1049.9164"
+         y="1065.0667"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.80460644px;line-height:117.99999475%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.20817472px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:0.26458314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="tspan2939">listed are free</tspan><tspan
-         sodipodi:role="line"
-         x="-423.80359"
-         y="1067.3857"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.80460644px;line-height:117.99999475%;font-family:Techna;-inkscape-font-specification:Techna;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.20817472px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:0.26458314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="tspan2945">to download.</tspan></text>
+         id="tspan2686">likes company.</tspan></text>
   </g>
 </svg>
