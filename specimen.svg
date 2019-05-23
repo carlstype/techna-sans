@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/carl/doc/design-tests/techna-typeface/specimen-details.png"
+   inkscape:export-filename="/home/carl/doc/design-tests/techna-typeface/specimen-pairings.png"
    sodipodi:docname="specimen.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    id="svg1301"
@@ -5091,8 +5091,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64000001"
-     inkscape:cx="984.87014"
-     inkscape:cy="223.4072"
+     inkscape:cx="984.87013"
+     inkscape:cy="223.40724"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5127,12 +5127,12 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <sodipodi:guide
-       position="1478.2225,-133.32513"
+       position="1478.2225,-133.32512"
        orientation="1,0"
        id="guide2049"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1511.7089,-48.782526"
+       position="1511.7089,-48.782517"
        orientation="1,0"
        id="guide2051"
        inkscape:locked="false" />
