@@ -1,6 +1,6 @@
 var texts = document.getElementsByClassName('random-text');
 for (var i = 0, text; text = texts[i]; ++i) {
-  var chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+  var chars = 'no';
   var capChars = '';
   var numChars = '012347';
 
