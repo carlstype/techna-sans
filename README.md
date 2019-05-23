@@ -5,5 +5,3 @@
 ![](specimen-sample.png)
 
 ![](specimen-details.png)
-
-![](specimen-pairings.png)
