@@ -11,7 +11,8 @@ for (var i = 0, text; text = texts[i]; ++i) {
     chars = numChars;
   }
 
-  var length = 800;
+  // var length = 800;
+  var length = 400;
   text.innerHTML = randomText(chars, length);
 }
 
