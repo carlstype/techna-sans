@@ -1,3 +1,7 @@
-# Techna typeface
+# Techna Sans
 
-![](specimen.png)
+![](specimen-title.png)
+
+![](specimen-sample.png)
+
+![](specimen-details.png)
