@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Techna';
+  font-family: 'Techna Sans';
   font-weight: 400;
-  src: url(Techna-Regular.otf);
+  src: url(TechnaSans-Regular.otf);
 }
 
 * {
@@ -12,7 +12,7 @@
 }
 
 body {
-  font-family: 'Techna', sans-serif;
+  font-family: 'Techna Sans', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   margin: 100px auto 120px;
