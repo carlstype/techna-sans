@@ -15,7 +15,6 @@ for source in sources:
     print('Generating {}{}'.format(('raw ' if raw else ''), output))
     font = fontforge.open(source)
     font.selection.all()
-    font.round()
     font.unlinkReferences()
     if not raw:
         font.removeOverlap()
@@ -25,4 +24,6 @@ for source in sources:
     #      font.generate(output, flags=('no-hints', 'no-flex', 'opentype'))
     #  else:
     #      font.generate(output, flags=('opentype'))
+    font.round()
+    font.addExtrema()
     font.generate(output, flags=('no-hints', 'no-flex', 'opentype'))
