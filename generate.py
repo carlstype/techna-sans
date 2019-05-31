@@ -15,6 +15,7 @@ for source in sources:
     print('Generating {}{}'.format(('raw ' if raw else ''), output))
     font = fontforge.open(source)
     font.selection.all()
+    # TODO: Keep anchors for all letters and diacritics.
     font.unlinkReferences()
     if not raw:
         font.removeOverlap()
@@ -26,4 +27,8 @@ for source in sources:
     #      font.generate(output, flags=('opentype'))
     font.round()
     font.addExtrema()
+    # TODO: Copy e.g. space to nbspace automatically.
+    # TODO: Automatically generate accented characters?
+    # Since we're using simplified encoding for design in FontForge
+    font.encoding = 'unicode'
     font.generate(output, flags=('no-hints', 'no-flex', 'opentype'))
