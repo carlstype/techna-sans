@@ -12,13 +12,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/carl/doc/design-tests/techna-typeface/specimen-pairings.png"
+   inkscape:export-filename="C:\Users\Admin\Documents\techna-sans\specimen-details.png"
    sodipodi:docname="specimen.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg1301"
    version="1.1"
-   viewBox="0 0 508.00012 285.75023"
-   height="11.250003in"
+   viewBox="0 0 508.00012 285.75042"
+   height="11.25001in"
    width="20.000002in">
   <defs
      id="defs1295">
@@ -5090,9 +5090,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627419"
-     inkscape:cx="1135.6569"
-     inkscape:cy="-1.7573845"
+     inkscape:zoom="0.64000006"
+     inkscape:cx="984.08575"
+     inkscape:cy="744.10189"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5127,12 +5127,12 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <sodipodi:guide
-       position="1478.2226,-1149.3267"
+       position="1478.2226,-471.99236"
        orientation="1,0"
        id="guide2049"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1511.709,-1064.7841"
+       position="1511.709,-387.44976"
        orientation="1,0"
        id="guide2051"
        inkscape:locked="false" />
@@ -5153,7 +5153,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(460.23356,187.46002)">
+     transform="translate(460.23356,-489.8739)">
     <g
        aria-label="-"
        transform="matrix(0.9994482,0,0,-1.0005521,-5.0705352,0.92226808)"
@@ -5173,12 +5173,12 @@
        transform="scale(0.9994482,1.0005521)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.79374999px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:0.26458317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-181.83231"
+       x="-182.03912"
        y="-28.459448"
        id="text2697"><tspan
          dx="0 0 0 0 0.95101684"
          sodipodi:role="line"
-         x="-181.43542"
+         x="-181.64224"
          y="-28.459448"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.79374999px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:0.26458317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="tspan2695">BY</tspan></text>
@@ -5311,9 +5311,9 @@
        id="text2926-8"><tspan
          id="tspan2918-7"
          sodipodi:role="line"
-         x="-89.436783"
+         x="-89.383209"
          y="210.01932"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.15745525px;text-anchor:middle;opacity:1;vector-effect:none;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal">REORDERED</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.26458332px;text-anchor:middle;opacity:1;vector-effect:none;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal">REORDERED</tspan><tspan
          dx="0 0 0 0 0 0 0"
          sodipodi:role="line"
          x="-89.515503"
@@ -5517,19 +5517,19 @@
        transform="scale(0.9994482,1.0005521)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-430.9653"
+       x="-431.17212"
        y="-93.712807"
        id="text2892"><tspan
          dx="-10.688233 0 3 0.60000002 0 0.10724926"
          sodipodi:role="line"
-         x="-430.9653"
+         x="-431.17212"
          y="-93.712807"
          id="tspan2888"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';letter-spacing:-3.79037833px;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
          dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805"
          id="tspan2890"
          sodipodi:role="line"
-         x="-430.9653"
+         x="-431.17212"
          y="-11.493324"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';letter-spacing:-3.79037833px;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:2.99999928">Sans</tspan></text>
     <text
