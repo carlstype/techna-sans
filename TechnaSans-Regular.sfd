@@ -5,7 +5,7 @@ FamilyName: Techna Sans
 Weight: Regular
 Copyright: Copyright (c) 2019, Carl Enlund
 UComments: "2019-5-11: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 1.000
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559323411
+ModificationTime: 1559324478
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -47,15 +47,14 @@ Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard L
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033
-LangName: 1033
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoACgAA" "http://scripts.sil.org/OFL"
 Encoding: adobe-latin-3
 UnicodeInterp: none
 NameList: adobe-latin-3
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 76 19 7
+WinInfo: 0 19 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2321,7 +2320,7 @@ StartChar: ampersand
 Encoding: 6 38 81
 Width: 589
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
 SplineSet
@@ -4098,7 +4097,7 @@ StartChar: section
 Encoding: 102 167 184
 Width: 510
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
