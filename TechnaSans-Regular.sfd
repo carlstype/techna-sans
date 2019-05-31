@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559339788
+ModificationTime: 1559339902
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,7 @@ DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoACgAA" "http://scripts.sil.org/OFL"
 Encoding: adobe-latin-3
 UnicodeInterp: none
-NameList: adobe-latin-3
+NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
@@ -3768,7 +3768,7 @@ StartChar: acute
 Encoding: 115 180 158
 Width: 236
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "Top" 77 522 mark 0
 LayerCount: 3
 Fore
@@ -4114,7 +4114,7 @@ Refer: 173 8221 N 1 0 0 1 -6 -536 2
 Validated: 1
 EndChar
 
-StartChar: twosuperior
+StartChar: uni00B2
 Encoding: 113 178 176
 Width: 546
 VWidth: 0
@@ -4126,7 +4126,7 @@ Validated: 5
 Colour: ffff00
 EndChar
 
-StartChar: threesuperior
+StartChar: uni00B3
 Encoding: 114 179 177
 Width: 546
 VWidth: 0
@@ -4138,7 +4138,7 @@ Validated: 5
 Colour: ffff00
 EndChar
 
-StartChar: onesuperior
+StartChar: uni00B9
 Encoding: 120 185 178
 Width: 546
 VWidth: 0
@@ -4553,7 +4553,7 @@ StartChar: Zcaron
 Encoding: 274 381 198
 Width: 541
 VWidth: 0
-Flags: H
+Flags: HO
 LayerCount: 3
 Fore
 Refer: 162 711 N 1 0 0 1 118 222 2
@@ -4869,7 +4869,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0122
+StartChar: Gcommaaccent
 Encoding: 215 290 227
 Width: 1000
 VWidth: 0
@@ -4880,7 +4880,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0123
+StartChar: gcommaaccent
 Encoding: 216 291 228
 Width: 1000
 VWidth: 0
@@ -4946,7 +4946,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0136
+StartChar: Kcommaaccent
 Encoding: 223 310 234
 Width: 1000
 VWidth: 0
@@ -4957,7 +4957,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0137
+StartChar: kcommaaccent
 Encoding: 224 311 235
 Width: 1000
 VWidth: 0
@@ -4990,7 +4990,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni013B
+StartChar: Lcommaaccent
 Encoding: 227 315 238
 Width: 1000
 VWidth: 0
@@ -5001,7 +5001,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni013C
+StartChar: lcommaaccent
 Encoding: 228 316 239
 Width: 1000
 VWidth: 0
@@ -5078,7 +5078,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0145
+StartChar: Ncommaaccent
 Encoding: 235 325 246
 Width: 1000
 VWidth: 0
@@ -5089,7 +5089,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0146
+StartChar: ncommaaccent
 Encoding: 236 326 247
 Width: 1000
 VWidth: 0
@@ -5188,7 +5188,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0156
+StartChar: Rcommaaccent
 Encoding: 247 342 256
 Width: 1000
 VWidth: 0
@@ -5199,7 +5199,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0157
+StartChar: rcommaaccent
 Encoding: 248 343 257
 Width: 1000
 VWidth: 0
@@ -5254,7 +5254,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni015C
+StartChar: Scircumflex
 Encoding: 65539 348 262
 Width: 1000
 VWidth: 0
@@ -5265,7 +5265,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni015D
+StartChar: scircumflex
 Encoding: 65540 349 263
 Width: 1000
 VWidth: 0
@@ -5276,7 +5276,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni015E
+StartChar: Scedilla
 Encoding: 253 350 264
 Width: 1000
 VWidth: 0
@@ -5287,7 +5287,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni015F
+StartChar: scedilla
 Encoding: 254 351 265
 Width: 1000
 VWidth: 0
@@ -5320,7 +5320,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0162
+StartChar: Tcommaaccent
 Encoding: 257 354 268
 Width: 1000
 VWidth: 0
@@ -5331,7 +5331,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0163
+StartChar: tcommaaccent
 Encoding: 258 355 269
 Width: 1000
 VWidth: 0
@@ -5507,7 +5507,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0218
+StartChar: Scommaaccent
 Encoding: 277 536 285
 Width: 1000
 VWidth: 0
@@ -5518,7 +5518,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni0219
+StartChar: scommaaccent
 Encoding: 278 537 286
 Width: 1000
 VWidth: 0
@@ -5664,7 +5664,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni2113
+StartChar: afii61289
 Encoding: 310 8467 300
 Width: 1000
 VWidth: 0
@@ -5684,7 +5684,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni2126
+StartChar: Omega
 Encoding: 312 8486 302
 Width: 1000
 VWidth: 0
@@ -5714,7 +5714,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uni2206
+StartChar: Delta
 Encoding: 315 8710 305
 Width: 1000
 VWidth: 0
@@ -5854,7 +5854,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: fi
+StartChar: uniFB01
 Encoding: 329 64257 319
 Width: 1000
 VWidth: 0
@@ -5864,7 +5864,7 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: fl
+StartChar: uniFB02
 Encoding: 330 64258 320
 Width: 1000
 VWidth: 0
@@ -5885,7 +5885,7 @@ Refer: 20 32 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
-StartChar: uni00B5
+StartChar: mu
 Encoding: 116 181 322
 Width: 1000
 VWidth: 0
