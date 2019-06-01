@@ -140,3 +140,9 @@ button {
 
 .sort-word {
 }
+
+.glyph {
+  display: inline-block;
+  width: 1.4em;
+  text-align: center;
+}

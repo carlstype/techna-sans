@@ -27,8 +27,12 @@ for source in sources:
     #      font.generate(output, flags=('opentype'))
     font.round()
     font.addExtrema()
+
     # TODO: Copy e.g. space to nbspace automatically.
+
     # TODO: Automatically generate accented characters?
+    # Watch out for combos that need extra spacing, e.g. lcaron.
+
     # Since we're using simplified encoding for design in FontForge
     font.encoding = 'unicode'
     font.generate(output, flags=('no-hints', 'no-flex', 'opentype'))
