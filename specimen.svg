@@ -5126,9 +5126,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8101935"
-     inkscape:cx="932.92524"
-     inkscape:cy="-637.44438"
+     inkscape:zoom="1.2800001"
+     inkscape:cx="909.98315"
+     inkscape:cy="-691.94584"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5608,7 +5608,7 @@
          id="tspan8116"
          x="-402.8862"
          y="861.00403"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <path
        inkscape:connector-curvature="0"
        id="path10241"
@@ -5617,11 +5617,11 @@
        style="opacity:1;vector-effect:none;fill:#001d79;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.15280926;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.64027786px;line-height:1.5;font-family:sans-serif;letter-spacing:0.13229167px;word-spacing:0px;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:14.64027786px;line-height:1.5;font-family:'Techna Sans';letter-spacing:0.13229167px;word-spacing:0px;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'Techna Sans';font-stretch:normal;font-variant:normal;"
        id="flowRoot10295"
        transform="translate(0,2.8938799)"><flowRegion
          id="flowRegion10297"
-         style="font-size:14.64027786px;letter-spacing:0.13229167px"><use
+         style="font-size:14.64027786px;letter-spacing:0.13229167px;-inkscape-font-specification:'Techna Sans';font-family:'Techna Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"><use
            x="0"
            y="0"
            xlink:href="#path10241"
