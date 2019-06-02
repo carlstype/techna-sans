@@ -55,7 +55,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 15 5
+WinInfo: 285 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -300,7 +300,7 @@ StartChar: A
 Encoding: 33 65 7
 Width: 633
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 AnchorPoint: "Ogonek" 521 0 basechar 0
 AnchorPoint: "Top" 317 744 basechar 0
 LayerCount: 3
@@ -5915,7 +5915,7 @@ StartChar: Delta
 Encoding: 315 8710 304
 Width: 619
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet

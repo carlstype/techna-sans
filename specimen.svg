@@ -17,7 +17,7 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg1301"
    version="1.1"
-   viewBox="0 0 508.00012 285.75042"
+   viewBox="0 0 508.00012 285.75044"
    height="11.25001in"
    width="20.000002in">
   <defs
@@ -5126,9 +5126,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2800001"
-     inkscape:cx="909.98315"
-     inkscape:cy="-691.94584"
+     inkscape:zoom="0.45254838"
+     inkscape:cx="899.53878"
+     inkscape:cy="1412.2426"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5163,12 +5163,12 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <sodipodi:guide
-       position="1478.2226,-471.99236"
+       position="1478.2227,-471.9924"
        orientation="1,0"
        id="guide2049"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1511.709,-387.44976"
+       position="1511.7091,-387.4497"
        orientation="1,0"
        id="guide2051"
        inkscape:locked="false" />
@@ -5181,7 +5181,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5209,12 +5209,12 @@
        transform="scale(0.9994482,1.0005521)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.79374999px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:0.26458317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-182.03912"
+       x="-182.91658"
        y="-28.459448"
        id="text2697"><tspan
          dx="0 0 0 0 0.95101684"
          sodipodi:role="line"
-         x="-181.64224"
+         x="-182.5197"
          y="-28.459448"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.79374999px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:0.26458317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="tspan2695">BY</tspan></text>
@@ -5316,91 +5316,91 @@
     <text
        id="text2916-0"
        y="210.01932"
-       x="-320.64697"
+       x="-321.06039"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:0.26458317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px"
          y="210.01932"
-         x="-320.64697"
+         x="-321.06039"
          sodipodi:role="line"
          id="tspan2908-7">Electronically</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px"
          y="272.17648"
-         x="-320.64697"
+         x="-321.06039"
          sodipodi:role="line"
          id="tspan2910-2">Identification</tspan><tspan
          id="tspan2912-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal"
          y="334.33362"
-         x="-320.64697"
+         x="-321.06039"
          sodipodi:role="line">Multiplicative</tspan><tspan
          id="tspan2914-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.13229167px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px"
          y="396.49078"
-         x="-320.58084"
+         x="-320.99426"
          sodipodi:role="line">Photography</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:0.26458317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-89.515503"
+       x="-89.102089"
        y="210.01932"
        id="text2926-8"><tspan
          id="tspan2918-7"
          sodipodi:role="line"
-         x="-89.383209"
+         x="-88.969795"
          y="210.01932"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.26458332px;text-anchor:middle;opacity:1;vector-effect:none;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal">REORDERED</tspan><tspan
          dx="0 0 0 0 0 0 0"
          sodipodi:role="line"
-         x="-89.515503"
+         x="-89.102089"
          y="272.17648"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px"
          id="tspan2920-8">HANDSTAND</tspan><tspan
          id="tspan2922-4"
          sodipodi:role="line"
-         x="-89.515503"
+         x="-89.102089"
          y="334.33362"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px">SIMPLICITIES</tspan><tspan
          id="tspan2924-5"
          sodipodi:role="line"
-         x="-89.455231"
+         x="-89.041817"
          y="396.49078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.12053409px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px">INITIALIZING</tspan></text>
     <text
        transform="scale(0.9994482,1.0005521)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-431.17212"
+       x="-431.75708"
        y="-93.712807"
        id="text2892"><tspan
-         dx="-10.688233 0 3 0.60000002 0 0.10724926"
+         dx="-10.103581 0 3 0.60000002 0 0.10724926"
          sodipodi:role="line"
-         x="-431.17212"
+         x="-431.75708"
          y="-93.712807"
          id="tspan2888"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';letter-spacing:-3.79037833px;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:2.99999928">Techna</tspan><tspan
          dx="0 2.6882503 0 1.2992198e-08 0 0 2.6692805"
          id="tspan2890"
          sodipodi:role="line"
-         x="-431.17212"
+         x="-431.75708"
          y="-11.493324"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';letter-spacing:-3.79037833px;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:2.99999928">Sans</tspan></text>
     <text
        transform="scale(0.9994482,1.0005521)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.62597656px;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:-3.79037833px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:1;vector-effect:none;fill:#fff1ae;fill-opacity:1;stroke:none;stroke-width:2.99999928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="18.853062"
+       x="18.268087"
        y="-11.495031"
        id="text2898"><tspan
          dx="0 2 0 1.1401961"
          id="tspan2894"
          sodipodi:role="line"
-         x="15.06268"
+         x="14.477706"
          y="-11.495031"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:2.99999928">carl</tspan><tspan
          dx="0 0 0 0 0 0 0 0 2.6692805"
          sodipodi:role="line"
-         x="15.062697"
+         x="14.477723"
          y="70.724449"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:2.99999928"
          id="tspan2896">enlund</tspan></text>
@@ -5617,11 +5617,11 @@
        style="opacity:1;vector-effect:none;fill:#001d79;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.15280926;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.64027786px;line-height:1.5;font-family:'Techna Sans';letter-spacing:0.13229167px;word-spacing:0px;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'Techna Sans';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.64027786px;line-height:1.5;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';letter-spacing:0.13229167px;word-spacing:0px;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="flowRoot10295"
        transform="translate(0,2.8938799)"><flowRegion
          id="flowRegion10297"
-         style="font-size:14.64027786px;letter-spacing:0.13229167px;-inkscape-font-specification:'Techna Sans';font-family:'Techna Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"><use
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.64027786px;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';letter-spacing:0.13229167px"><use
            x="0"
            y="0"
            xlink:href="#path10241"
