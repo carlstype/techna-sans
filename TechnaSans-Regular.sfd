@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559598303
+ModificationTime: 1559598384
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +55,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 270 15 5
+WinInfo: 30 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1706,10 +1706,10 @@ StartChar: y
 Encoding: 89 121 52
 Width: 486
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "Top" 246 574 basechar 0
 LayerCount: 3
-Back
+Fore
 SplineSet
 316 7 m 2
  277.251707709 -108.084748362 227 -168 123 -168 c 3
@@ -1721,33 +1721,12 @@ SplineSet
  217 50 l 1
  351 503 l 1
  483 503 l 1
- 330 50 l 25
  316 7 l 2
 3 503 m 1
  145 503 l 1
  286 50 l 1
  199 -49 l 1
- 164 50 l 25
  3 503 l 1
-EndSplineSet
-Fore
-SplineSet
-316 7 m 6
- 277.251707709 -108.084748362 227 -168 123 -168 c 7
- 81 -168 46 -157.5 28 -147 c 5
- 28 -35 l 5
- 51 -45.35 78 -53 111 -53 c 7
- 154 -53 179.968270215 -19.9959058342 185 19 c 6
- 189 50 l 5
- 217 50 l 5
- 351 503 l 5
- 483 503 l 5
- 316 7 l 6
-3 503 m 5
- 145 503 l 5
- 286 50 l 5
- 199 -49 l 5
- 3 503 l 5
 EndSplineSet
 EndChar
 
@@ -6695,7 +6674,7 @@ StartChar: .notdef
 Encoding: 344 -1 344
 Width: 640
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
