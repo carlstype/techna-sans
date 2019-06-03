@@ -12,6 +12,12 @@ But with generous spacing it works equally well in smaller sizes.
 
 ![](specimen-details.png)
 
+## OpenType features
+
+An alternate, single-storey a is available via Stylistic Set 1.
+Stylistic sets are enabled differently depending on the application used.
+If you are using CSS, Stylistic Set 1 can enabled with `font-feature-settings: 'ss01';`.
+
 ## Language support
 
 Techna Sans has over 300 glyphs and supports the [Adobe Latin 3 character set](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-3.html).
