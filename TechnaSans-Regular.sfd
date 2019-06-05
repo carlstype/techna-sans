@@ -5,7 +5,7 @@ FamilyName: Techna Sans
 Weight: Regular
 Copyright: Copyright (c) 2019, Carl Enlund
 UComments: "2019-5-11: Created with FontForge (http://fontforge.org)"
-Version: 1.000
+Version: 1.001
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559598384
+ModificationTime: 1559773563
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +55,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 30 15 5
+WinInfo: 240 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -83,7 +83,7 @@ Grid
  -1022 -700 l 1024
 EndSplineSet
 AnchorClass2: "Ogonek"""  "Caron"""  "Bottom"""  "Cedilla"""  "Top""" 
-BeginChars: 345 345
+BeginChars: 346 345
 
 StartChar: D
 Encoding: 36 68 0
@@ -1706,7 +1706,7 @@ StartChar: y
 Encoding: 89 121 52
 Width: 486
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 AnchorPoint: "Top" 246 574 basechar 0
 LayerCount: 3
 Fore
@@ -1782,7 +1782,6 @@ Encoding: 12 44 55
 Width: 231
 VWidth: 0
 Flags: HMW
-AnchorPoint: "Caron" 43 152 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -2170,7 +2169,7 @@ StartChar: quoteright
 Encoding: 294 8217 72
 Width: 211
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
 Refer: 55 44 N 1 0 0 1 -3 536 2
@@ -5881,17 +5880,17 @@ Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-484 0 m 1
+486 0 m 5
  259 688 l 1
- 387 688 l 1
+ 385 688 l 1
  616 24 l 1
  616 0 l 1
- 484 0 l 1
+ 486 0 l 5
 3 0 m 1
  3 24 l 1
- 237 688 l 5
+ 239 688 l 5
  359 688 l 1
- 131 0 l 1
+ 129 0 l 1
  3 0 l 1
 87 122 m 1
  533 122 l 1
