@@ -1,8 +1,8 @@
 # Techna Sans
 
 Techna Sans is a bold, geometric sans-serif typeface.
-The typeface is tightly spaced, intended mainly for display use.
-But with generous spacing it works equally well in smaller sizes.
+The typeface is tightly spaced, intended mainly for display use,
+but with generous spacing it works equally well in smaller sizes.
 
 **[↓ Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/v1.000/techna-sans.zip)**
 
@@ -15,8 +15,8 @@ But with generous spacing it works equally well in smaller sizes.
 ## OpenType features
 
 An alternate, single-storey a is available via Stylistic Set 1.
-In case you are using CSS, Stylistic Set 1 can enabled with `font-feature-settings: 'ss01'`.
-Stylistic sets are enabled in different ways depending on the application used, so a quick Google search might be needed.
+In case you are using CSS, Stylistic Set 1 can enabled with the property `font-feature-settings: 'ss01'`.
+For other applications, e.g. Adobe InDesign, a quick Google search might be needed.
 
 ## Language support
 
