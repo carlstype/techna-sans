@@ -16,7 +16,7 @@ but with generous spacing it works equally well in smaller sizes.
 
 An alternate, single-storey a is available via Stylistic Set 1.
 In case you are using CSS, Stylistic Set 1 can enabled with the property `font-feature-settings: 'ss01'`.
-For other applications, e.g. Adobe InDesign, a quick Google search might be needed.
+For other applications, e.g. Adobe InDesign, a quick Google search might be needed for enabling stylistic sets.
 
 ## Language support
 
