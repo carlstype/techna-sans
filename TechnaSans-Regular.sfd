@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559774937
+ModificationTime: 1559775910
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3838,16 +3838,16 @@ Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-69 186 m 1
- 501 186 l 1
- 501 101 l 1
- 53 101 l 1
- 69 186 l 1
-69 334 m 1
- 501 334 l 1
- 501 249 l 1
- 53 249 l 1
- 69 334 l 1
+69 186 m 5
+ 501 186 l 5
+ 501 101 l 5
+ 53 101 l 5
+ 69 186 l 5
+69 334 m 5
+ 501 334 l 5
+ 501 249 l 5
+ 53 249 l 5
+ 69 334 l 5
 EndSplineSet
 Refer: 22 89 N 1 0 0 1 -2 0 2
 EndChar
@@ -5693,24 +5693,35 @@ EndChar
 
 StartChar: uni20BA
 Encoding: 308 8378 294
-Width: 397
+Width: 529
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
-146 -125 m 1
- 146 688 l 1
- 261 688 l 1
- 261 -125 l 1
- 146 -125 l 1
-22 503 m 1
- 393 503 l 1
- 393 396 l 1
- 2 396 l 1
- 22 503 l 1
+26 309 m 1
+ 406 383 l 1
+ 406 298 l 1
+ 10 221 l 1
+ 26 309 l 1
+26 462 m 1
+ 406 536 l 1
+ 406 451 l 1
+ 10 374 l 1
+ 26 462 l 1
+97 0 m 1
+ 97 688 l 1
+ 231 688 l 1
+ 231 0 l 1
+ 97 0 l 1
+162 0 m 1
+ 162 122 l 1
+ 281 122 l 2
+ 376.25390625 122 425 142.888888889 489 182 c 1
+ 519 64 l 1
+ 456.918367347 22.8752052424 385 -1.48177368813e-14 264 0 c 2
+ 162 0 l 1
 EndSplineSet
-Colour: ffff00
 EndChar
 
 StartChar: uni20BD
@@ -5743,11 +5754,11 @@ SplineSet
  415.069335938 381 443 421.958007812 443 475 c 3
  443 525.973986951 415.069335938 567 351 567 c 1
  358 688 l 1
-28 212 m 1
- 459 213 l 1
- 430 106 l 1
- 8 105 l 1
- 28 212 l 1
+28 208 m 5
+ 459 209 l 5
+ 430 103 l 5
+ 8 102 l 5
+ 28 208 l 5
 28 380 m 1
  319 381 l 1
  290 272 l 1
@@ -6171,7 +6182,7 @@ StartChar: lozenge
 Encoding: 328 9674 314
 Width: 602
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
