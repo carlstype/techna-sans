@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559775910
+ModificationTime: 1559777355
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +55,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 285 15 5
+WinInfo: 270 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -444,11 +444,11 @@ SplineSet
  192 688 l 1
  192 0 l 1
  58 0 l 1
-123 0 m 1
- 123 122 l 1
- 515 122 l 1
- 484 0 l 1
- 123 0 l 1
+123 0 m 5
+ 123 122 l 5
+ 515 122 l 5
+ 484 0 l 5
+ 123 0 l 5
 EndSplineSet
 Kerns2: 4 -105 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
@@ -3237,7 +3237,6 @@ SplineSet
  234 218 l 2
  182.994277909 213.16787896 151 196.65 151 157 c 3
 EndSplineSet
-Substitution2: "'ss01' Style Set 1 in Latin lookup 1-1" ae.ss01
 EndChar
 
 StartChar: ccedilla
@@ -5511,10 +5510,9 @@ SplineSet
  331 580.65060241 258.982352941 526 172 526 c 19
  85.0176470588 526 13 580.65060241 13 688 c 1
  104 688 l 1
- 104 636.173913043 127 600 172 600 c 3
- 217 600 240 636.173913043 240 688 c 1
+ 104 636.762845849 127 601 172 601 c 3
+ 217 601 240 636.762845849 240 688 c 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: dotaccent
@@ -5695,7 +5693,7 @@ StartChar: uni20BA
 Encoding: 308 8378 294
 Width: 529
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
@@ -5798,22 +5796,43 @@ EndChar
 
 StartChar: uni2126
 Encoding: 312 8486 298
-Width: 397
+Width: 738
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
-146 -125 m 1
- 146 688 l 1
- 261 688 l 1
- 261 -125 l 1
- 146 -125 l 1
-22 503 m 1
- 393 503 l 1
- 393 396 l 1
- 2 396 l 1
- 22 503 l 1
+542 0 m 1
+ 423 0 l 1
+ 423 180 l 1
+ 542 180 l 1
+ 542 0 l 1
+702 0 m 1
+ 483 0 l 1
+ 483 119 l 1
+ 671 119 l 1
+ 702 0 l 1
+196 0 m 1
+ 196 180 l 1
+ 315 180 l 1
+ 315 0 l 1
+ 196 0 l 1
+36 0 m 1
+ 67 119 l 1
+ 255 119 l 1
+ 255 0 l 1
+ 36 0 l 1
+369 705 m 3
+ 590.211914062 705 708 545.703125 708 388 c 7
+ 708 268.326171875 624.501953125 111 463 111 c 1
+ 423 180 l 1
+ 541.01171875 224.514648438 573 302.306640625 573 384 c 3
+ 573 486.069335938 502.81640625 585 369 585 c 3
+ 235.18359375 585 165 486.069335938 165 384 c 3
+ 165 302.306640625 196.98828125 224.514648438 315 180 c 1
+ 275 111 l 1
+ 113.498046875 111 30 268.326171875 30 388 c 7
+ 30 545.703125 147.788085938 705 369 705 c 3
 EndSplineSet
 Colour: ffff00
 EndChar
@@ -6187,23 +6206,23 @@ LayerCount: 3
 Fore
 SplineSet
 154 344 m 1
- 368 0 l 1
- 230 0 l 1
+ 367 0 l 1
+ 231 0 l 1
  10 344 l 1
  154 344 l 1
 592 344 m 1
- 372 0 l 1
- 234 0 l 1
+ 371 0 l 1
+ 235 0 l 1
  448 344 l 1
  592 344 l 1
 448 344 m 1
- 234 688 l 1
- 372 688 l 1
+ 235 688 l 1
+ 371 688 l 1
  592 344 l 1
  448 344 l 1
 10 344 m 1
- 230 688 l 1
- 368 688 l 1
+ 231 688 l 1
+ 367 688 l 1
  154 344 l 1
  10 344 l 1
 EndSplineSet
