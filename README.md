@@ -15,8 +15,8 @@ But with generous spacing it works equally well in smaller sizes.
 ## OpenType features
 
 An alternate, single-storey a is available via Stylistic Set 1.
-Stylistic sets are enabled in various ways depending on the application used.
-In case you are using CSS, Stylistic Set 1 can enabled with `font-feature-settings: 'ss01';`.
+In case you are using CSS, Stylistic Set 1 can enabled with `font-feature-settings: 'ss01'`.
+Stylistic sets are enabled in different ways depending on the application used, so a quick Google search might be needed.
 
 ## Language support
 
