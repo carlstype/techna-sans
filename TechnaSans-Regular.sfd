@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559779684
+ModificationTime: 1559780034
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +55,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 285 15 5
+WinInfo: 270 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1522,7 +1522,6 @@ Encoding: 70 102 46
 Width: 338
 VWidth: 0
 Flags: HMW
-AnchorPoint: "Ogonek" 385 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -5408,30 +5407,30 @@ EndChar
 
 StartChar: florin
 Encoding: 276 402 280
-Width: 409
+Width: 338
 VWidth: 0
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-65 503 m 1
- 377 503 l 1
- 377 396 l 1
- 45 396 l 1
- 65 503 l 1
-138 548 m 2
- 154.814453125 699.333007812 246.409179688 725 318 725 c 3
- 348.403320312 725 368.323242188 720 383 714 c 1
- 404 602 l 1
- 389.263671875 607 369.614257812 612 348 612 c 3
- 304.725585938 612 272.754882812 599.793945312 267 548 c 2
- 208 18 l 2
- 192.192382812 -124 139.2265625 -170 44 -170 c 3
- 16.9091796875 -170 -7.61328125 -164.545898438 -20 -158 c 1
- -20 -50 l 1
- -8.6044921875 -54.3193359375 1.685546875 -56 13 -56 c 3
- 55.193359375 -56 73.3349609375 -33.984375 78 8 c 2
- 138 548 l 2
+81 548 m 2
+ 81 696 184.193181818 725 257 725 c 3
+ 285.234277702 725 308.097005209 720 323 714 c 1
+ 344 603 l 1
+ 328.215390682 608.5 307.167898314 614 283 614 c 3
+ 244.472222222 614 210 598 210 548 c 2
+ 210 11 l 2
+ 210 -121 145 -170 55 -170 c 3
+ 27.0625 -170 1.7738037109 -164.545454545 -11 -158 c 1
+ -11 -50 l 1
+ 1.0859375 -55.039453125 12 -57 26 -57 c 3
+ 61 -57 81 -34 81 8 c 2
+ 81 548 l 2
+22 503 m 1
+ 334 503 l 1
+ 334 396 l 1
+ 2 396 l 1
+ 22 503 l 1
 EndSplineSet
 EndChar
 
@@ -6058,7 +6057,7 @@ StartChar: infinity
 Encoding: 322 8734 308
 Width: 772
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
@@ -6089,24 +6088,26 @@ EndChar
 
 StartChar: integral
 Encoding: 323 8747 309
-Width: 397
+Width: 299
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
-146 -125 m 1
- 146 688 l 1
- 261 688 l 1
- 261 -125 l 1
- 146 -125 l 1
-22 503 m 1
- 393 503 l 1
- 393 396 l 1
- 2 396 l 1
- 22 503 l 1
+67 548 m 2
+ 67 696 169.020507812 725 241 725 c 3
+ 258.967578125 725 273.516276042 722.727539062 283 720 c 1
+ 304 609 l 1
+ 294.425708008 611.5 281.659082031 614 267 614 c 3
+ 229.52734375 614 196 598 196 548 c 2
+ 196 11 l 2
+ 196 -121 131 -170 41 -170 c 3
+ 13.0625 -170 -12.2265625 -164.545898438 -25 -158 c 1
+ -25 -50 l 1
+ -12.9140625 -55.0390625 -2 -57 12 -57 c 3
+ 47 -57 67 -34 67 8 c 2
+ 67 548 l 2
 EndSplineSet
-Colour: ffff00
 EndChar
 
 StartChar: approxequal
