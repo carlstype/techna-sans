@@ -1,8 +1,7 @@
 # Techna Sans
 
 Techna Sans is a bold, geometric sans-serif typeface.
-The typeface is tightly spaced, intended mainly for display use,
-but with generous spacing it works equally well in smaller sizes.
+The typeface is tightly spaced, intended mainly for display use.
 
 **[↓ Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/v1.000/techna-sans.zip)**
 
