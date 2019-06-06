@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559783724
+ModificationTime: 1559784190
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +55,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 15 5
+WinInfo: 75 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3190,7 +3190,7 @@ StartChar: ae
 Encoding: 165 230 129
 Width: 812
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -3335,7 +3335,6 @@ LayerCount: 3
 Fore
 Refer: 157 180 N 1 0 0 1 40 52 2
 Refer: 135 305 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: icircumflex
@@ -3393,7 +3392,6 @@ LayerCount: 3
 Fore
 Refer: 157 180 N 1 0 0 1 215 56 2
 Refer: 27 111 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: ocircumflex
@@ -3620,13 +3618,12 @@ AnchorPoint: "Top" 77 522 mark 0
 LayerCount: 3
 Fore
 SplineSet
-102 522 m 1
+103 522 m 1
  0 522 l 25
- 88 688 l 1
+ 87 688 l 5
  225 688 l 1
- 102 522 l 1
+ 103 522 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: ring
@@ -4385,23 +4382,22 @@ StartChar: brokenbar
 Encoding: 101 166 196
 Width: 231
 VWidth: 0
-Flags: HW
+Flags: HWO
 AnchorPoint: "Top" 296 744 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-58 368 m 1
+58 367 m 5
  58 718 l 1
  173 718 l 1
- 173 368 l 1
- 58 368 l 1
-173 248 m 5
+ 173 367 l 5
+ 58 367 l 5
+173 249 m 1
  173 -125 l 1
  58 -125 l 1
- 58 248 l 5
- 173 248 l 5
+ 58 249 l 1
+ 173 249 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: Zcaron
@@ -6055,17 +6051,17 @@ SplineSet
  143 293 l 1
  10 292.916992188 l 1
  42 413.916992188 l 1
-251 0 m 1
- 407 688 l 1
+254 0 m 5
+ 410 688 l 1
  533 688 l 1
  373 0 l 1
- 251 0 l 1
-232 0 m 5
+ 254 0 l 5
+232 0 m 1
  44.1376811594 389 l 1
  42 414 l 1
- 177 414 l 1
- 351 0 l 1
- 232 0 l 5
+ 176 414 l 1
+ 350 0 l 1
+ 232 0 l 1
 EndSplineSet
 EndChar
 
@@ -6554,18 +6550,18 @@ SplineSet
  132 532 l 1
  151 629 l 1
 285 718 m 1
- 428.579101562 645.353515625 533 496 533 312 c 1
+ 428.579101562 644.637786715 533 496 533 308 c 1
  533 96 423.216796875 -12 260 -12 c 3
  119.778320312 -12 22 99.9697265625 22 247 c 3
  22 398.499023438 121.401367188 498 246 498 c 3
- 347.361328125 498 425 417.391601562 425 292 c 1
+ 349.060121334 498 428 417.391601562 428 292 c 5
  390 245 l 1
  390 327.28515625 339.875976562 382 272 382 c 3
  204.124023438 382 154 327.28515625 154 245 c 3
  154 161.756835938 204.124023438 106 272 106 c 3
  339.875976562 106 390 161.756835938 390 245 c 1
- 416 321 l 1
- 416 488.2578125 297 619 132 710 c 1
+ 419 321 l 5
+ 419 488.2578125 298.742957746 619 132 710 c 1
  132 718 l 1
  285 718 l 1
 EndSplineSet
