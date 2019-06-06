@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559782277
+ModificationTime: 1559783671
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +55,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 285 15 5
+WinInfo: 150 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1326,7 +1326,7 @@ Fore
 SplineSet
 326 396 m 1
  -7 396 l 1
- -7 419 l 1
+ -7 419 l 5
  174 617 l 1
  174 503 l 1
  326 503 l 1
@@ -4425,7 +4425,6 @@ AnchorPoint: "Top" 296 744 basechar 0
 LayerCount: 3
 Fore
 Refer: 214 272 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: Thorn
@@ -4661,14 +4660,13 @@ Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-351 292.916992188 m 1
- -5 292.916992188 l 5
- 18 412.833984375 l 5
- 351 412.916992188 l 1
- 351 292.916992188 l 1
+351 298.916992188 m 1
+ -5 298.916992188 l 1
+ 17 406.833984375 l 5
+ 351 406.916992188 l 5
+ 351 298.916992188 l 1
 EndSplineSet
 Refer: 0 68 N 1 0 0 1 19 0 2
-Validated: 5
 EndChar
 
 StartChar: dcroat
@@ -4679,11 +4677,11 @@ Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-297 665 m 5
- 610 665 l 5
- 610 565 l 5
- 278 565 l 5
- 297 665 l 5
+296 660 m 5
+ 610 660 l 5
+ 610 568 l 5
+ 278 568 l 5
+ 296 660 l 5
 EndSplineSet
 Refer: 36 100 N 1 0 0 1 0 0 2
 EndChar
@@ -5889,7 +5887,7 @@ StartChar: partialdiff
 Encoding: 314 8706 300
 Width: 546
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
@@ -5905,12 +5903,11 @@ SplineSet
  322.150390625 107 371 153.859375 371 216 c 1
  393 339 l 1
  393 464.713867188 351 579 202 579 c 3
- 139.403846154 579 89 559 47 536 c 1
+ 139.807692308 579 89.7290322581 559.930232558 48 538 c 1
  81 673 l 1
  110.308082217 688.057908078 156.576923077 700 212 700 c 3
  433 700 520 528 520 330 c 1
 EndSplineSet
-Colour: ffff00
 EndChar
 
 StartChar: uni2206
@@ -6545,37 +6542,33 @@ EndChar
 
 StartChar: eth
 Encoding: 175 240 331
-Width: 602
+Width: 555
 VWidth: 0
-Flags: HW
-AnchorPoint: "Caron" 614 688 basechar 0
+Flags: HWO
 LayerCount: 3
 Fore
 SplineSet
-259 515 m 3
- 378.801757812 515 452 426.110351562 452 315 c 1
- 452 189 l 1
- 452 77.84765625 379.578125 -12 258 -12 c 3
- 111.328125 -12 22 102.696289062 22 252 c 3
- 22 400.30859375 111.326171875 515 259 515 c 3
-287 404 m 3
- 198.73046875 404 152 335 152 252 c 3
- 152 169 198.73046875 99 287 99 c 7
- 375.26953125 99 422 169 422 252 c 3
- 422 335 375.26953125 404 287 404 c 3
-421 143 m 1
- 421 202 l 1
- 422 202 l 1
- 422 302 l 1
- 421 302 l 1
- 421 718 l 1
- 550 718 l 1
- 550 0 l 1
- 425 0 l 1
- 424 143 l 1
- 421 143 l 1
+151 629 m 1
+ 458 705 l 1
+ 458 613 l 1
+ 132 532 l 1
+ 151 629 l 1
+285 718 m 1
+ 428.579101562 645.353515625 533 496 533 312 c 1
+ 533 96 423.216796875 -12 260 -12 c 3
+ 119.778320312 -12 22 99.9697265625 22 247 c 3
+ 22 398.499023438 121.401367188 498 246 498 c 3
+ 347.361328125 498 425 417.391601562 425 292 c 1
+ 390 245 l 1
+ 390 327.28515625 339.875976562 382 272 382 c 3
+ 204.124023438 382 154 327.28515625 154 245 c 3
+ 154 161.756835938 204.124023438 106 272 106 c 3
+ 339.875976562 106 390 161.756835938 390 245 c 1
+ 416 321 l 1
+ 416 488.2578125 297 619 132 710 c 1
+ 132 718 l 1
+ 285 718 l 1
 EndSplineSet
-Colour: ffff00
 EndChar
 
 StartChar: Omacron
