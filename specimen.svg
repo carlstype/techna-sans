@@ -17,7 +17,7 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg1301"
    version="1.1"
-   viewBox="0 0 508.00012 285.75044"
+   viewBox="0 0 508.00012 285.75046"
    height="11.25001in"
    width="20.000002in">
   <defs
@@ -5127,8 +5127,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254838"
-     inkscape:cx="713.54743"
-     inkscape:cy="931.77374"
+     inkscape:cx="1247.4052"
+     inkscape:cy="352.3221"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5163,12 +5163,12 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <sodipodi:guide
-       position="1478.2227,-471.9924"
+       position="1478.2228,-471.99237"
        orientation="1,0"
        id="guide2049"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1511.7091,-387.4497"
+       position="1511.7092,-387.44967"
        orientation="1,0"
        id="guide2051"
        inkscape:locked="false" />
@@ -5181,7 +5181,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5241,7 +5241,7 @@
        inkscape:connector-curvature="0"
        id="path34453-7"
        d="m -333.88722,651.86039 12.88755,-48.09926"
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal" />
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal" />
     <text
        id="text2882-7"
        y="703.69659"
@@ -5267,7 +5267,7 @@
          y="688.43909"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';fill:#fff7d0;fill-opacity:1;stroke-width:0.26458332px">a</tspan></text>
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal"
        d="m -317.18768,589.95046 12.88755,-48.09927"
        id="path34455-9"
        inkscape:connector-curvature="0"
@@ -5277,21 +5277,21 @@
        inkscape:connector-curvature="0"
        id="path3160-1"
        d="M -92.860638,707.13009 V 655.2244"
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff6f29;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal" />
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff6f29;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal"
        d="M -9.8592606,597.55847 3.0282807,549.45921"
        id="path3158-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal"
        d="m -300.24524,714.42731 -12.88755,-48.0992"
        id="path3154-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00a7e9;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal"
        d="m -242.67057,618.27014 12.88755,-48.09927"
        id="path34719-7"
        inkscape:connector-curvature="0"
@@ -5313,9 +5313,9 @@
          x="-321.06039"
          sodipodi:role="line"
          id="tspan2908-7">Electronically</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.05291667px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px"
          y="272.17648"
-         x="-321.06039"
+         x="-321.03394"
          sodipodi:role="line"
          id="tspan2910-2">Identification</tspan><tspan
          id="tspan2912-4"
@@ -5336,9 +5336,9 @@
        id="text2926-8"><tspan
          id="tspan2918-7"
          sodipodi:role="line"
-         x="-88.969795"
+         x="-88.903648"
          y="210.01932"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.26458332px;text-anchor:middle;opacity:1;vector-effect:none;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal">REORDERED</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.39687499px;text-anchor:middle;opacity:1;vector-effect:none;fill:#fff7d0;fill-opacity:1;stroke:none;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-dashoffset:1.75;stroke-opacity:1;paint-order:normal">REORDERED</tspan><tspan
          dx="0 0 0 0 0 0 0"
          sodipodi:role="line"
          x="-89.102089"
@@ -5347,12 +5347,12 @@
          id="tspan2920-8">HANDSTAND</tspan><tspan
          id="tspan2922-4"
          sodipodi:role="line"
-         x="-89.102089"
+         x="-89.102097"
          y="334.33362"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px">SIMPLICITIES</tspan><tspan
          id="tspan2924-5"
          sodipodi:role="line"
-         x="-89.041817"
+         x="-89.041824"
          y="396.49078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.12053409px;text-anchor:middle;fill:#fff7d0;fill-opacity:1;stroke-width:0.26458317px">INITIALIZING</tspan></text>
     <text
@@ -5389,7 +5389,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:2.99999928">carl</tspan><tspan
          dx="0 0 0 0 0 0 0 0 2.6692805"
          sodipodi:role="line"
-         x="14.477723"
+         x="14.477714"
          y="70.724449"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:75%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:end;letter-spacing:-3.79037833px;text-anchor:end;fill:#00a7e9;fill-opacity:1;stroke:none;stroke-width:2.99999928"
          id="tspan2896">enlund</tspan></text>
