@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1559865275
+ModificationTime: 1559865913
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,7 +56,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 285 15 5
+WinInfo: 0 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -4010,24 +4010,59 @@ EndChar
 
 StartChar: ordmasculine
 Encoding: 121 186 178
-Width: 584
+Width: 469
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
-Refer: 27 111 N 1 0 0 1 0 0 3
-Colour: ffff00
+SplineSet
+234 695 m 3
+ 368 695 445 605 445 488 c 3
+ 445 370 368 280 234 280 c 3
+ 100 280 24 370 24 488 c 3
+ 24 605 100 695 234 695 c 3
+234 603 m 3
+ 166.908221726 603 131 550.291343952 131 488 c 3
+ 131 425.685630342 166.908221726 372 234 372 c 3
+ 301.127063679 372 338 425.685630342 338 488 c 3
+ 338 550.291343952 301.127063679 603 234 603 c 3
+EndSplineSet
 EndChar
 
 StartChar: ordfeminine
 Encoding: 105 170 179
-Width: 483
+Width: 396
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 33 97 N 1 0 0 1 0 0 3
-Colour: ffff00
+SplineSet
+255 544 m 1
+ 255 581.35546875 219.4140625 602 169 602 c 7
+ 119.18359375 602 83.599609375 592 47 574 c 5
+ 72 668 l 1
+ 97.4677734375 680 140.251953125 689 181 689 c 3
+ 298.326171875 689 358 637 358 544 c 1
+ 255 544 l 1
+358 544 m 1
+ 358 287 l 1
+ 260 287 l 1
+ 259 399 l 1
+ 255 399 l 1
+ 255 544 l 1
+ 358 544 l 1
+134 411 m 3
+ 134 383 149.396484375 361 185 361 c 3
+ 224.861328125 361 255 390 255 439 c 1
+ 268 404 l 1
+ 268 330 223.796875 281 157 281 c 3
+ 78.767578125 281 30 332 30 398 c 3
+ 30 507.838867188 125.086914062 521.946289062 205 529 c 2
+ 266 534 l 1
+ 266 467 l 1
+ 195 460 l 2
+ 156.26953125 455.916992188 134 442.645507812 134 411 c 3
+EndSplineSet
 EndChar
 
 StartChar: copyright
@@ -4225,15 +4260,15 @@ Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-151 253 m 5
+148 253 m 5
  330 52 l 1
- 202 52 l 1
+ 200 52 l 1
  18 253 l 1
- 151 253 l 5
+ 148 253 l 5
 330 455 m 1
- 151 253 l 5
+ 148 253 l 5
  18 253 l 1
- 202 455 l 1
+ 200 455 l 1
  330 455 l 1
 EndSplineSet
 EndChar
@@ -5741,7 +5776,7 @@ StartChar: uni2113
 Encoding: 310 8467 296
 Width: 411
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
@@ -6529,14 +6564,14 @@ EndChar
 
 StartChar: threequarters
 Encoding: 125 190 330
-Width: 863
+Width: 866
 VWidth: 0
 Flags: HW
 LayerCount: 3
 Fore
-Refer: 345 8308 N 1 0 0 1 471 -287 2
+Refer: 345 8308 S 1 0 0 1 474 -287 2
 Refer: 176 179 N 1 0 0 1 1 0 2
-Refer: 293 8260 S 1 0 0 1 155 0 2
+Refer: 293 8260 S 1 0 0 1 158 0 2
 EndChar
 
 StartChar: eth
