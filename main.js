@@ -83,6 +83,7 @@ var ss01 = JSON.parse(localStorage.getItem('ss01'));
 var ss02 = JSON.parse(localStorage.getItem('ss02'));
 var ss03 = JSON.parse(localStorage.getItem('ss03'));
 var ss04 = JSON.parse(localStorage.getItem('ss04'));
+var pnum = JSON.parse(localStorage.getItem('pnum'));
 
 if (ss01) {
   ss01 = false;
@@ -100,38 +101,49 @@ if (ss04) {
   ss04 = false;
   toggleSs04();
 }
+if (pnum) {
+  pnum = false;
+  togglePnum();
+}
 document.querySelector('#ss01-button').addEventListener('click', toggleSs01);
 document.querySelector('#ss02-button').addEventListener('click', toggleSs02);
 document.querySelector('#ss03-button').addEventListener('click', toggleSs03);
 document.querySelector('#ss04-button').addEventListener('click', toggleSs04);
+document.querySelector('#pnum-button').addEventListener('click', togglePnum);
 
 function toggleSs01() {
   ss01 = !ss01;
   localStorage.setItem('ss01', ss01);
-  updateSsxx();
+  updateFontFeatureSettings();
 }
 function toggleSs02() {
   ss02 = !ss02;
   localStorage.setItem('ss02', ss02);
-  updateSsxx();
+  updateFontFeatureSettings();
 }
 function toggleSs03() {
   ss03 = !ss03;
   localStorage.setItem('ss03', ss03);
-  updateSsxx();
+  updateFontFeatureSettings();
 }
 function toggleSs04() {
   ss04 = !ss04;
   localStorage.setItem('ss04', ss04);
-  updateSsxx();
+  updateFontFeatureSettings();
+}
+function togglePnum() {
+  pnum = !pnum;
+  localStorage.setItem('pnum', pnum);
+  updateFontFeatureSettings();
 }
 
-function updateSsxx() {
+function updateFontFeatureSettings() {
   var values = [];
   if (ss01) values.push("'ss01'");
   if (ss02) values.push("'ss02'");
   if (ss03) values.push("'ss03'");
   if (ss04) values.push("'ss04'");
+  if (pnum) values.push("'pnum'");
   document.body.style.fontFeatureSettings = values.join(',');
 }
 

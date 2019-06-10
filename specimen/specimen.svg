@@ -12,13 +12,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="C:\Users\Admin\Documents\techna-sans\specimen\title.png"
+   inkscape:export-filename="C:\Users\Admin\Documents\techna-sans\specimen\glyphs.png"
    sodipodi:docname="specimen.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg1301"
    version="1.1"
-   viewBox="0 0 508.00012 285.75031"
-   height="11.250003in"
+   viewBox="0 0 508.00012 285.75046"
+   height="11.250009in"
    width="20.000002in">
   <defs
      id="defs1295">
@@ -5127,8 +5127,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1500.5814"
-     inkscape:cy="-1504.4795"
+     inkscape:cx="653.08832"
+     inkscape:cy="2018.1734"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5163,12 +5163,12 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <sodipodi:guide
-       position="1478.2229,-1149.3268"
+       position="1478.2228,-133.32516"
        orientation="1,0"
        id="guide2049"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1511.7093,-1064.7841"
+       position="1511.7092,-48.782458"
        orientation="1,0"
        id="guide2051"
        inkscape:locked="false" />
@@ -5189,7 +5189,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(460.23356,187.46002)">
+     transform="translate(460.23356,-828.54098)">
     <g
        aria-label="-"
        transform="matrix(0.9994482,0,0,-1.0005521,-5.0705352,0.92226808)"
@@ -5432,7 +5432,8 @@
          y="1011.6681"
          x="-205.87575"
          sodipodi:role="line"
-         id="tspan2690">nopqrstuvwxyz<tspan
+         id="tspan2690"
+         dx="1.4967093">nopqrstuvwxyz<tspan
    style="letter-spacing:-1.19062495px"
    id="tspan2810">   </tspan>åöéňçőßþ</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.13229167px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458317px"
@@ -5441,13 +5442,17 @@
          sodipodi:role="line"
          id="tspan2710"
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 1.5 -1.2133226 0.45167199 -0.37417734 0 0 0 1.1225318 0 1.122532"
-         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.56126601"> 1234567890<tspan
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.56126601"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56188965px;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:pnum;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="tspan5352"> </tspan><tspan
+   id="tspan3988"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56188965px;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:proportional-nums;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">1234567890</tspan><tspan
    style="letter-spacing:-0.26458332px"
    id="tspan2852">  </tspan>[&amp;@]<tspan
    style="letter-spacing:-0.39687499px"
    id="tspan2862">  </tspan>{$½}</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:0.13229167px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458317px"
-         y="1135.9824"
+         y="1135.9828"
          x="-205.94189"
          sodipodi:role="line"
          id="tspan2668" /></text>

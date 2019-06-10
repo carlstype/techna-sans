@@ -5,7 +5,7 @@ FamilyName: Techna Sans
 Weight: Regular
 Copyright: Copyright (c) 2019, Carl Enlund
 UComments: "2019-5-11: Created with FontForge (http://fontforge.org)"
-Version: 1.002
+Version: 1.001
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560168191
+ModificationTime: 1560173104
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -42,6 +42,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 2" { "'pnum' Proportional Numbers lookup 2-1"  } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Style Set 1 in Latin lookup 1" { "'ss01' Style Set 1 in Latin lookup 1-1"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
@@ -56,7 +57,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 45 15 5
+WinInfo: 285 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -84,7 +85,7 @@ Grid
  -1022 -700 l 1024
 EndSplineSet
 AnchorClass2: "Ogonek"""  "Caron"""  "Bottom"""  "Cedilla"""  "Top""" 
-BeginChars: 347 347
+BeginChars: 357 357
 
 StartChar: D
 Encoding: 36 68 0
@@ -1033,7 +1034,7 @@ StartChar: a
 Encoding: 65 97 33
 Width: 483
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 AnchorPoint: "Ogonek" 338 0 basechar 0
 AnchorPoint: "Top" 239 574 basechar 0
 LayerCount: 3
@@ -1820,6 +1821,7 @@ SplineSet
  357 551.59765625 312.401785714 576 246 576 c 3
  166.830625 576 109.477460937 553.000463453 49 516 c 1
 EndSplineSet
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" two.pnum
 EndChar
 
 StartChar: one
@@ -1842,17 +1844,18 @@ SplineSet
  257 0 l 5
 EndSplineSet
 Validated: 5
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" one.pnum
 EndChar
 
 StartChar: three
 Encoding: 19 51 58
 Width: 546
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
 SplineSet
-508 198 m 7
+508 198 m 3
  508 73.3570161534 405.373046875 -8 255 -8 c 3
  166.299804688 -8 95.009765625 13.83984375 49 44 c 1
  49 173 l 1
@@ -1861,17 +1864,18 @@ SplineSet
  369 278.186523438 277.432617188 301.01953125 155 302 c 1
  183 408 l 1
  274 380 l 1
- 377.208984375 380 508 328.36065754 508 198 c 7
+ 377.208984375 380 508 328.36065754 508 198 c 3
 351 498 m 3
- 351 553.375 298.434570312 579 236 579 c 3
- 169.15625 579 107.98046875 557.916992188 52 524 c 1
- 86 653 l 1
- 127.330078125 677.307617188 182.572214227 697 269 697 c 3
- 392.826171875 697 489 635.98828125 489 524 c 3
+ 351 553.375 297.977479619 579 235 579 c 7
+ 167.79296875 579 106.284710428 557.916992188 50 524 c 1
+ 84 653 l 1
+ 125.555925546 677.307617188 181.099931245 697 268 697 c 7
+ 392.389018111 697 489 635.98828125 489 524 c 3
  489 406.666344803 382.745117188 348 326 348 c 1
  183 408 l 1
  277.212890625 410.022460938 351 427 351 498 c 3
 EndSplineSet
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" three.pnum
 EndChar
 
 StartChar: zero
@@ -1894,6 +1898,7 @@ SplineSet
  390 510.575195312 349.380859375 579 272 579 c 3
 EndSplineSet
 Validated: 1
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" zero.pnum
 EndChar
 
 StartChar: four
@@ -1921,6 +1926,7 @@ SplineSet
  155 260 l 1
  8 260 l 1
 EndSplineSet
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" four.pnum
 EndChar
 
 StartChar: five
@@ -1931,28 +1937,29 @@ Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-55 301 m 5
- 103 688 l 5
- 223 688 l 5
- 182 371 l 5
- 55 301 l 5
-102 565 m 5
- 103 688 l 5
- 484 688 l 1
- 451 565 l 1
- 102 565 l 5
-509 227 m 3
- 509 82.8408203125 401.916015625 -8 240 -8 c 3
- 157.041992188 -8 85.4462890625 13.419921875 41 43 c 1
- 41 172 l 1
- 101.795898438 135 161.073242188 112 243 112 c 3
- 313.461914062 112 374 143.82421875 374 218 c 3
- 374 300.291015625 303 327 219 327 c 3
- 166.0203125 327 99.3768702652 316 55 301 c 5
- 102 399 l 5
- 145.995145631 423 204.768289214 440 273 440 c 3
- 403.481445312 440 509 364.942382812 509 227 c 3
+64 301 m 5
+ 112 688 l 5
+ 232 688 l 5
+ 191 371 l 5
+ 64 301 l 5
+111 565 m 5
+ 112 688 l 5
+ 493 688 l 5
+ 460 565 l 5
+ 111 565 l 5
+518 227 m 7
+ 518 82.8408203125 410.916015625 -8 249 -8 c 7
+ 166.041992188 -8 94.4462890625 13.419921875 50 43 c 5
+ 50 172 l 5
+ 110.795898438 135 170.073242188 112 252 112 c 7
+ 322.461914062 112 383 143.82421875 383 218 c 7
+ 383 300.291015625 312 327 228 327 c 7
+ 175.0203125 327 108.376870265 316 64 301 c 5
+ 111 399 l 5
+ 154.995145631 423 213.768289214 440 282 440 c 7
+ 412.481445312 440 518 364.942382812 518 227 c 7
 EndSplineSet
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" five.pnum
 EndChar
 
 StartChar: six
@@ -1981,6 +1988,7 @@ SplineSet
  111.487304688 700 26 528 26 330 c 1
 EndSplineSet
 Validated: 5
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" six.pnum
 EndChar
 
 StartChar: seven
@@ -2004,6 +2012,7 @@ SplineSet
  86 0 l 1
 EndSplineSet
 Validated: 5
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" seven.pnum
 EndChar
 
 StartChar: eight
@@ -2035,6 +2044,7 @@ SplineSet
  335.770005028 406 372 448.177354601 372 497 c 3
  372 545.607465765 335.770005028 587 273 587 c 3
 EndSplineSet
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" eight.pnum
 EndChar
 
 StartChar: nine
@@ -2062,6 +2072,7 @@ SplineSet
  83.25390625 10.41015625 148.26171875 -12 223 -12 c 3
  449.043945312 -12 520 165 520 353 c 1
 EndSplineSet
+Substitution2: "'pnum' Proportional Numbers lookup 2-1" nine.pnum
 EndChar
 
 StartChar: quotedbl
@@ -6852,6 +6863,138 @@ SplineSet
  223.9 373 247 405.699098821 247 488 c 7
  247 570.27843266 223.9 602 184 602 c 3
 EndSplineSet
+EndChar
+
+StartChar: zero.pnum
+Encoding: 347 -1 347
+Width: 602
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+300 700 m 3
+ 477.95703125 700 572 580.854492188 572 346 c 3
+ 572 108.91796875 477.95703125 -12 300 -12 c 3
+ 123.3515625 -12 30 108.91796875 30 346 c 3
+ 30 580.854492188 123.3515625 700 300 700 c 3
+300 579 m 3
+ 211.471198587 579 165 510.575195312 165 346 c 3
+ 165 179.342773438 211.471198587 109 300 109 c 3
+ 389.840324955 109 437 179.342773438 437 346 c 3
+ 437 510.575195312 389.840324955 579 300 579 c 3
+EndSplineSet
+EndChar
+
+StartChar: one.pnum
+Encoding: 348 -1 348
+Width: 404
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 57 49 N 1 0 0 1 -67 0 2
+EndChar
+
+StartChar: two.pnum
+Encoding: 349 -1 349
+Width: 520
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 56 50 N 1 0 0 1 -15 0 2
+EndChar
+
+StartChar: three.pnum
+Encoding: 350 -1 350
+Width: 519
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 58 51 N 1 0 0 1 -19 0 2
+EndChar
+
+StartChar: four.pnum
+Encoding: 351 -1 351
+Width: 546
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 60 52 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: five.pnum
+Encoding: 352 -1 352
+Width: 546
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 61 53 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: six.pnum
+Encoding: 353 -1 353
+Width: 546
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 62 54 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: seven.pnum
+Encoding: 354 -1 354
+Width: 526
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 63 55 N 1 0 0 1 -10 0 2
+EndChar
+
+StartChar: eight.pnum
+Encoding: 355 -1 355
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+280 371 m 7
+ 451.403779644 371 540 304.221035684 540 188 c 3
+ 540 77.2087032434 445.212682189 -13 280 -13 c 7
+ 114.787317811 -13 20 76.3111042061 20 186 c 3
+ 20 303.491210938 108.596220356 371 280 371 c 7
+280 299 m 7
+ 199.552283654 299 157 253.927734375 157 201 c 3
+ 157 147.349234533 199.552283654 101 280 101 c 7
+ 361.129407051 101 403 148.739091797 403 204 c 3
+ 403 255.307536646 361.129407051 299 280 299 c 7
+280 700 m 7
+ 432.504694206 700 520 613.308295641 520 511 c 3
+ 520 409.035867504 442.893642704 336 280 336 c 7
+ 117.106357296 336 40 408.201171875 40 509 c 3
+ 40 612.390923109 127.495305794 700 280 700 c 7
+280 588 m 7
+ 213.426254735 588 175 546.14750434 175 497 c 3
+ 175 448.177734375 213.426254735 406 280 406 c 7
+ 346.573745265 406 385 449.104717548 385 499 c 3
+ 385 547.06733941 346.573745265 588 280 588 c 7
+EndSplineSet
+EndChar
+
+StartChar: nine.pnum
+Encoding: 356 -1 356
+Width: 546
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 65 57 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
