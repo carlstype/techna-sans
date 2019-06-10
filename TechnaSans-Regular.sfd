@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560190382
+ModificationTime: 1560191203
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 38 19 7
+WinInfo: 0 19 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -327,46 +327,46 @@ EndChar
 
 StartChar: B
 Encoding: 34 66 8
-Width: 587
+Width: 589
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
 SplineSet
-327 116 m 1
- 336 0 l 1
- 123 0 l 1
- 123 116 l 1
- 327 116 l 1
-399 406 m 1
- 399 292 l 1
- 123 292 l 1
- 123 406 l 1
- 399 406 l 1
-348 372 m 1
- 478.246376812 372 557 293.446327684 557 196 c 3
- 557 83 478 0 336 0 c 1
- 327 116 l 1
- 387 116 417 152.556818182 417 204 c 7
- 417 256.11627907 387 292 327 292 c 1
- 348 372 l 1
-331 688 m 1
- 321 570 l 1
- 123 570 l 1
- 123 688 l 1
- 331 688 l 1
-58 0 m 1
- 58 688 l 1
- 192 688 l 1
- 192 0 l 1
- 58 0 l 1
-331 688 m 1
- 466.346153846 688 538 609 538 511 c 3
- 538 415.431137725 473.648351648 343 355 343 c 1
- 321 406 l 1
- 376.325301205 406 403 440 403 487 c 3
- 403 534.573170732 376.325301205 570 321 570 c 1
- 331 688 l 1
+329 116 m 5
+ 338 0 l 5
+ 123 0 l 5
+ 123 116 l 5
+ 329 116 l 5
+401 406 m 5
+ 401 292 l 5
+ 123 292 l 5
+ 123 406 l 5
+ 401 406 l 5
+350 372 m 5
+ 480.246376812 372 559 293.446327684 559 196 c 7
+ 559 83 480 0 338 0 c 5
+ 329 116 l 5
+ 389 116 419 152.556818182 419 204 c 7
+ 419 256.11627907 389 292 329 292 c 5
+ 350 372 l 5
+333 688 m 5
+ 323 570 l 5
+ 123 570 l 5
+ 123 688 l 5
+ 333 688 l 5
+58 0 m 5
+ 58 688 l 5
+ 192 688 l 5
+ 192 0 l 5
+ 58 0 l 5
+333 688 m 5
+ 468.346153846 688 540 609 540 511 c 7
+ 540 415.431137725 475.648351648 343 357 343 c 5
+ 323 406 l 5
+ 378.325301205 406 405 440 405 487 c 7
+ 405 534.573170732 378.325301205 570 323 570 c 5
+ 333 688 l 5
 EndSplineSet
 EndChar
 
@@ -3855,7 +3855,7 @@ StartChar: sterling
 Encoding: 98 163 169
 Width: 530
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -6580,9 +6580,9 @@ VWidth: 0
 Flags: HW
 LayerCount: 3
 Fore
-Refer: 345 8308 S 1 0 0 1 474 -287 2
+Refer: 345 8308 N 1 0 0 1 474 -287 2
 Refer: 176 179 N 1 0 0 1 1 0 2
-Refer: 293 8260 S 1 0 0 1 158 0 2
+Refer: 293 8260 N 1 0 0 1 158 0 2
 EndChar
 
 StartChar: eth
