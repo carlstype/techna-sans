@@ -21,7 +21,7 @@ Techna Sans is licensed under the SIL Open Font License, making it for free both
 ## OpenType features
 
 An alternate, single-storey **a** is available via Stylistic Set 1.
-If you are using CSS, the stylistic set can enabled with the property `font-feature-settings: 'ss01'`.
+If you are using CSS, the stylistic set can enabled with `font-feature-settings: 'ss01'`.
 For other applications, e.g. Adobe InDesign, a quick Google search might be needed.
 
 The typeface also has a set of proportional figures.
