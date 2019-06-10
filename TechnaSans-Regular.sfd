@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560173104
+ModificationTime: 1560173879
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 285 15 5
+WinInfo: 135 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -715,28 +715,28 @@ EndChar
 
 StartChar: Y
 Encoding: 57 89 22
-Width: 561
+Width: 571
 VWidth: 0
-Flags: HMW
-AnchorPoint: "Top" 281 744 basechar 0
+Flags: HMWO
+AnchorPoint: "Top" 286 744 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-214 0 m 1
- 214 328 l 1
- 348 328 l 1
- 348 0 l 1
- 214 0 l 1
-224 250 m 1
- 416 688 l 5
- 566 688 l 1
- 343 243 l 1
- 224 250 l 1
-217 241 m 1
+219 0 m 1
+ 219 348 l 1
+ 353 348 l 1
+ 353 0 l 1
+ 219 0 l 1
+229 270 m 1
+ 426 688 l 1
+ 576 688 l 1
+ 348 263 l 1
+ 229 270 l 1
+222 261 m 1
  -5 688 l 1
  149 688 l 1
- 341 253 l 1
- 217 241 l 1
+ 346 273 l 1
+ 222 261 l 1
 EndSplineSet
 Kerns2: 27 -60 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
@@ -1383,14 +1383,14 @@ AnchorPoint: "Top" 224 574 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-384 489 m 5
- 355 378 l 5
- 302.713867188 403.916621767 267 408 232 408 c 7
+384 489 m 1
+ 355 378 l 1
+ 302.713867188 403.916621767 267 408 232 408 c 3
  181.61721254 408 155 394.325120192 155 368 c 3
  155 346.166992188 164.918755576 334.286466734 199 322 c 2
  292.708007812 288.217773438 l 2
  358 264.679669018 401 226.051203947 401 148 c 3
- 401 41 324 -14 199 -14 c 3
+ 401 43 321 -14 199 -14 c 3
  137.393554688 -14 75.03125 2.00015836149 38 24 c 1
  38 142 l 1
  91 106.878059088 147 93 202 93 c 3
@@ -1398,8 +1398,8 @@ SplineSet
  274 157.769397102 264.93135976 171.481529115 225.041992188 185.536132812 c 2
  135.758789062 216.994140625 l 2
  70.9915547509 239.814201864 28 276 28 359 c 3
- 28 451.411392405 108 516 247 516 c 7
- 297 516 339 509 384 489 c 5
+ 28 451.411392405 108 516 247 516 c 3
+ 297 516 339 509 384 489 c 1
 EndSplineSet
 Kerns2: 41 -10 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
@@ -1851,7 +1851,7 @@ StartChar: three
 Encoding: 19 51 58
 Width: 546
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -3055,7 +3055,7 @@ EndChar
 
 StartChar: Yacute
 Encoding: 156 221 121
-Width: 561
+Width: 571
 VWidth: 0
 Flags: HMW
 LayerCount: 3
@@ -3063,18 +3063,18 @@ Back
 Refer: 157 180 N 1 0 0 1 204 222 2
 Refer: 22 89 N 1 0 0 1 0 0 3
 Fore
-Refer: 157 180 N 1 0 0 1 204 222 2
+Refer: 157 180 N 1 0 0 1 209 222 2
 Refer: 22 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ydieresis
 Encoding: 269 376 122
-Width: 561
+Width: 571
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 154 168 N 1 0 0 1 66 182 2
+Refer: 154 168 N 1 0 0 1 71 182 2
 Refer: 22 89 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3798,7 +3798,7 @@ EndChar
 
 StartChar: yen
 Encoding: 100 165 167
-Width: 561
+Width: 571
 VWidth: 0
 Flags: HMW
 LayerCount: 3
