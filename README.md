@@ -21,7 +21,7 @@ The typeface is licensed under the SIL Open Font License, making it for free bot
 ## OpenType features
 
 An alternate, single-storey **a** (shown above) is available via Stylistic Set 1.
-If case you are using CSS, the stylistic set can enabled with the property `font-feature-settings: 'ss01'`.
+If you are using CSS, the stylistic set can enabled with the property `font-feature-settings: 'ss01'`.
 For other applications, e.g. Adobe InDesign, a quick Google search might be needed for enabling stylistic sets.
 
 The typeface also has a set of proportional figures, available via `pnum`.
