@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560174197
+ModificationTime: 1560174291
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 285 15 5
+WinInfo: 225 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1433,8 +1433,8 @@ StartChar: r
 Encoding: 82 114 43
 Width: 371
 VWidth: 0
-Flags: HMW
-AnchorPoint: "Bottom" 123 -44 basechar 0
+Flags: HMWO
+AnchorPoint: "Bottom" 122 -44 basechar 0
 AnchorPoint: "Top" 210 574 basechar 0
 LayerCount: 3
 Fore
@@ -4764,7 +4764,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 287 729 N 1 0 0 1 174 213 2
+Refer: 287 729 N 1 0 0 1 180 170 2
 Refer: 1 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4775,7 +4775,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 287 729 N 1 0 0 1 161 22 2
+Refer: 287 729 N 1 0 0 1 161 0 2
 Refer: 40 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4907,7 +4907,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 3
 Fore
-Refer: 288 731 N 1 0 0 1 -8 0 2
+Refer: 288 731 N 1 0 0 1 -270.626 0 2
 Refer: 28 105 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4918,7 +4918,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 287 729 S 1 0 0 1 14 192 2
+Refer: 287 729 N 1 0 0 1 14 170 2
 Refer: 10 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5184,7 +5184,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 3
 Fore
-Refer: 343 806 N 1 0 0 1 0 -3 2
+Refer: 343 806 N 1 0 0 1 -1 -3 2
 Refer: 43 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5437,7 +5437,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 287 729 N 1 0 0 1 173.5 213 2
+Refer: 287 729 N 1 0 0 1 175 170 2
 Refer: 19 90 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5448,7 +5448,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 287 729 N 1 0 0 1 120 22 2
+Refer: 287 729 N 1 0 0 1 120 0 2
 Refer: 53 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6767,7 +6767,7 @@ StartChar: commasubnosp
 Encoding: 343 806 343
 Width: 230
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "Bottom" 123 -41 mark 0
 LayerCount: 3
 Fore
