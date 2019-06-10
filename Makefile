@@ -21,4 +21,4 @@ master: all
 	mkdir master/specimen
 	cp specimen/*.png master/specimen
 clean:
-	rm -rf *.otf test/proof.pdf _site techna-sans master
+	rm -rf *.otf test/*.otf test/proof.pdf _site techna-sans techna-sans.zip master
