@@ -6,11 +6,13 @@ but it works equally well in smaller sizes.
 
 **[↓ Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/v1.000/techna-sans.zip)**
 
-![](specimen-title.png)
+![](specimen/title.png)
 
-![](specimen-sample.png)
+![](specimen/sample.png)
 
-![](specimen-details.png)
+![](specimen/details.png)
+
+![](specimen/glyphs.png)
 
 ## OpenType features
 
