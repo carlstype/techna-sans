@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560191469
+ModificationTime: 1560191783
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 190 19 7
+WinInfo: 19 19 15
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -162,14 +162,14 @@ Width: 602
 VWidth: 0
 Flags: HMW
 AnchorPoint: "Top" 376 744 basechar 0
-AnchorPoint: "Cedilla" 387 0 basechar 0
+AnchorPoint: "Cedilla" 384 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 551 544 m 1
  520.72972973 555.44 474.378378378 570 411 570 c 3
  300.296875 570 155 517.692382812 155 347 c 3
- 155 179.008776542 288.494140625 112 419 112 c 7
+ 155 179.008776542 288.494140625 112 419 112 c 3
  479.19047619 112 537.5 126.848484848 577 147 c 1
  577 19 l 1
  546.593439276 4.55563038793 486.29243608 -11 411 -11 c 3
@@ -1410,7 +1410,7 @@ Width: 456
 VWidth: 0
 Flags: HMW
 AnchorPoint: "Top" 274 574 basechar 0
-AnchorPoint: "Cedilla" 285 0 basechar 0
+AnchorPoint: "Cedilla" 282 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -2734,7 +2734,7 @@ Back
 Refer: 159 184 N 1 0 0 1 261 0 2
 Refer: 2 67 N 1 0 0 1 0 0 3
 Fore
-Refer: 159 184 N 1 0 0 1 251 0 2
+Refer: 159 184 N 1 0 0 1 248 0 2
 Refer: 2 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3222,13 +3222,13 @@ StartChar: ccedilla
 Encoding: 166 231 130
 Width: 456
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Back
 Refer: 159 184 N 1 0 0 1 135 0 2
 Refer: 42 99 N 1 0 0 1 0 0 3
 Fore
-Refer: 159 184 N 1 0 0 1 149 0 2
+Refer: 159 184 N 1 0 0 1 146 0 2
 Refer: 42 99 N 1 0 0 1 0 0 3
 EndChar
 
@@ -4904,7 +4904,7 @@ StartChar: iogonek
 Encoding: 220 303 231
 Width: 233
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Fore
 Refer: 288 731 N 1 0 0 1 -8 0 2
