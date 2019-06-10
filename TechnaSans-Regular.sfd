@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560173879
+ModificationTime: 1560173905
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 135 15 5
+WinInfo: 15 15 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -717,7 +717,7 @@ StartChar: Y
 Encoding: 57 89 22
 Width: 571
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 AnchorPoint: "Top" 286 744 basechar 0
 LayerCount: 3
 Fore
@@ -903,7 +903,7 @@ StartChar: i
 Encoding: 73 105 28
 Width: 233
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "Ogonek" 92 0 basechar 0
 LayerCount: 3
 Fore
@@ -4907,7 +4907,7 @@ VWidth: 0
 Flags: HW
 LayerCount: 3
 Fore
-Refer: 288 731 N 1 0 0 1 -248.554 0 2
+Refer: 288 731 N 1 0 0 1 -8 0 2
 Refer: 28 105 N 1 0 0 1 0 0 3
 EndChar
 
