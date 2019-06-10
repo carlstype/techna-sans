@@ -1,13 +1,12 @@
 # Techna Sans
 
 Techna Sans is a bold, geometric sans-serif typeface.
-Sharp stroke endings, following strict geometric angles, give the typeface an authentic and modern look,
+Sharp stroke endings following strict geometric angles give the typeface an authentic and modern look,
 making it perfect for branding and headlines.
 The typeface is tightly spaced, intended mainly for display use,
 but with generous spacing it works equally well in smaller sizes.
 
-Licensed under the SIL Open Font License,
-Techna Sans is available for free both for personal and commercial use.
+The typeface is licensed under the SIL Open Font License, making it for free both for personal and commercial use.
 
 **[↓ Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/v1.000/techna-sans.zip)**
 
@@ -24,6 +23,10 @@ Techna Sans is available for free both for personal and commercial use.
 An alternate, single-storey **a** (shown above) is available via Stylistic Set 1.
 If case you are using CSS, the stylistic set can enabled with the property `font-feature-settings: 'ss01'`.
 For other applications, e.g. Adobe InDesign, a quick Google search might be needed for enabling stylistic sets.
+
+The typeface also has a set of proportional figures, available via `pnum`.
+By default tabular figures are enabled, meaning that all numbers have the same width.
+Like stylistic sets, proportional figures can be enabled in CSS with `font-feature-settings: 'pnum'`.
 
 ## Language support
 
