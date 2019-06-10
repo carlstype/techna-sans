@@ -6,7 +6,7 @@ making it perfect for branding and headlines.
 The typeface is tightly spaced, intended mainly for display use,
 but with generous spacing it works equally well in smaller sizes.
 
-The typeface is licensed under the SIL Open Font License, making it for free both for personal and commercial use.
+Techna Sans is licensed under the SIL Open Font License, making it for free both for personal and commercial use.
 
 **[↓ Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/v1.000/techna-sans.zip)**
 
@@ -26,7 +26,7 @@ For other applications, e.g. Adobe InDesign, a quick Google search might be need
 
 The typeface also has a set of proportional figures.
 By default the typeface has tabular figures are enabled, meaning that all numbers have the same width.
-Proportional figures can be enabled in CSS with `font-variant-numeric: proportional-nums` (or alternatively `font-feature-settings: 'pnum'`).
+Proportional figures can be enabled in CSS with `font-variant-numeric: proportional-nums`, or alternatively `font-feature-settings: 'pnum'`.
 
 ## Language support
 
