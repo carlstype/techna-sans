@@ -12,13 +12,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="C:\Users\Admin\Documents\techna-sans\specimen\glyphs.png"
+   inkscape:export-filename="C:\Users\Admin\Documents\techna-sans\specimen\title.png"
    sodipodi:docname="specimen.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg1301"
    version="1.1"
-   viewBox="0 0 508.00012 285.75046"
-   height="11.250009in"
+   viewBox="0 0 508.00012 285.75031"
+   height="11.250003in"
    width="20.000002in">
   <defs
      id="defs1295">
@@ -5126,9 +5126,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1004.1687"
-     inkscape:cy="685.70473"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1500.5814"
+     inkscape:cy="-1504.4795"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5163,12 +5163,12 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <sodipodi:guide
-       position="1478.2229,-133.32514"
+       position="1478.2229,-1149.3268"
        orientation="1,0"
        id="guide2049"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1511.7093,-48.782439"
+       position="1511.7093,-1064.7841"
        orientation="1,0"
        id="guide2051"
        inkscape:locked="false" />
@@ -5189,7 +5189,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(460.23356,-828.54098)">
+     transform="translate(460.23356,187.46002)">
     <g
        aria-label="-"
        transform="matrix(0.9994482,0,0,-1.0005521,-5.0705352,0.92226808)"
@@ -5209,12 +5209,12 @@
        transform="scale(0.9994482,1.0005521)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.79374999px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffbb29;fill-opacity:1;stroke:none;stroke-width:0.26458317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-182.91658"
+       x="-183.29097"
        y="-28.459448"
        id="text2697"><tspan
          dx="0 0 0 0 0.95101684"
          sodipodi:role="line"
-         x="-182.5197"
+         x="-182.89409"
          y="-28.459448"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.56303024px;line-height:170.00000477%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.79374999px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffbb29;fill-opacity:1;stroke:none;stroke-width:0.26458317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="tspan2695">BY</tspan></text>
