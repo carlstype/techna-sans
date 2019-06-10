@@ -1,7 +1,7 @@
 # Techna Sans
 
 Techna Sans is a bold, geometric sans-serif typeface.
-Its sharp stroke endings, following strict geometric angles, give the typeface an authentic and modern look,
+Its sharp stroke endings give the typeface an authentic and modern look,
 making it perfect for branding and headlines.
 The typeface is tightly spaced, intended mainly for display use,
 but with generous spacing it works equally well in smaller sizes.
