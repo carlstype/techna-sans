@@ -20,13 +20,13 @@ The typeface is licensed under the SIL Open Font License, making it for free bot
 
 ## OpenType features
 
-An alternate, single-storey **a** (shown above) is available via Stylistic Set 1.
+An alternate, single-storey **a** is available via Stylistic Set 1.
 If you are using CSS, the stylistic set can enabled with the property `font-feature-settings: 'ss01'`.
-For other applications, e.g. Adobe InDesign, a quick Google search might be needed for enabling stylistic sets.
+For other applications, e.g. Adobe InDesign, a quick Google search might be needed.
 
 The typeface also has a set of proportional figures, available via `pnum`.
 By default tabular figures are enabled, meaning that all numbers have the same width.
-Like stylistic sets, proportional figures can be enabled in CSS with `font-feature-settings: 'pnum'`.
+Proportional figures can be enabled in CSS with `font-variant-numeric: proportional-nums` (or alternatively `font-feature-settings: 'pnum'`).
 
 ## Language support
 
