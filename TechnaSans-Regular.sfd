@@ -4,10 +4,9 @@ FullName: Techna Sans Regular
 FamilyName: Techna Sans
 Weight: Regular
 Copyright: Copyright (c) 2019, Carl Enlund
-UComments: "2019-5-11: Created with FontForge (http://fontforge.org)"
-Version: 1.001
+Version: 1.002
 ItalicAngle: 0
-UnderlinePosition: -100
+UnderlinePosition: -150
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
@@ -17,17 +16,19 @@ Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 Layer: 2 0 "Thin" 1
 XUID: [1021 637 837473831 1446149]
+StyleMap: 0x0040
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560184873
-PfmFamily: 17
+ModificationTime: 1560186645
+PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 90
 VLineGap: 0
+Panose: 2 0 0 0 0 0 0 0 0 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -41,23 +42,22 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
+OS2Vendor: 'UKWN'
+Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 3" { "'tnum' Tabular Numbers lookup 3-1"  } ['tnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 2" { "'pnum' Proportional Numbers lookup 2-1"  } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Style Set 1 in Latin lookup 1" { "'ss01' Style Set 1 in Latin lookup 1-1"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-MarkAttachClasses: 2
-"lcommaaccent" 25 Lcommaaccent lcommaaccent
+MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoACgAA" "http://scripts.sil.org/OFL"
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoACgAA" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Carl Enlund" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoACgAA" "http://scripts.sil.org/OFL"
 Encoding: Custom
 UnicodeInterp: none
-NameList: Adobe Glyph List
+NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 19 19 7
+WinInfo: 0 19 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -84,6 +84,7 @@ Grid
 -1022 1300 m 0
  -1022 -700 l 1024
 EndSplineSet
+TeXData: 1 0 0 173015 86507 57671 527434 1048576 57671 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Ogonek"""  "Caron"""  "Bottom"""  "Cedilla"""  "Top""" 
 BeginChars: 357 357
 
@@ -6883,6 +6884,7 @@ SplineSet
  379.83984375 109 432 183.342773438 432 346 c 7
  432 506.575195312 379.83984375 579 295 579 c 3
 EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" zero
 EndChar
 
 StartChar: one.pnum
@@ -6893,6 +6895,7 @@ Flags: HW
 LayerCount: 3
 Fore
 Refer: 57 49 N 1 0 0 1 -67 0 2
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" one
 EndChar
 
 StartChar: two.pnum
@@ -6903,6 +6906,7 @@ Flags: HW
 LayerCount: 3
 Fore
 Refer: 56 50 N 1 0 0 1 -15 0 2
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" two
 EndChar
 
 StartChar: three.pnum
@@ -6913,6 +6917,7 @@ Flags: HW
 LayerCount: 3
 Fore
 Refer: 58 51 N 1 0 0 1 -19 0 2
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" three
 EndChar
 
 StartChar: four.pnum
@@ -6923,6 +6928,7 @@ Flags: HW
 LayerCount: 3
 Fore
 Refer: 60 52 N 1 0 0 1 0 0 2
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" four
 EndChar
 
 StartChar: five.pnum
@@ -6933,6 +6939,7 @@ Flags: HW
 LayerCount: 3
 Fore
 Refer: 61 53 N 1 0 0 1 0 0 2
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" five
 EndChar
 
 StartChar: six.pnum
@@ -6943,6 +6950,7 @@ Flags: HW
 LayerCount: 3
 Fore
 Refer: 62 54 N 1 0 0 1 0 0 2
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" six
 EndChar
 
 StartChar: seven.pnum
@@ -6953,6 +6961,7 @@ Flags: HW
 LayerCount: 3
 Fore
 Refer: 63 55 N 1 0 0 1 -10 0 2
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" seven
 EndChar
 
 StartChar: eight.pnum
@@ -6984,6 +6993,7 @@ SplineSet
  346.573745265 406 385 449.104717548 385 499 c 3
  385 547.06733941 346.573745265 588 280 588 c 7
 EndSplineSet
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" eight
 EndChar
 
 StartChar: nine.pnum
@@ -6994,6 +7004,7 @@ Flags: HW
 LayerCount: 3
 Fore
 Refer: 65 57 N 1 0 0 1 0 0 2
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" nine
 EndChar
 EndChars
 EndSplineFont
