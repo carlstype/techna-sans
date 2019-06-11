@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560244844
+ModificationTime: 1560245294
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -2108,7 +2108,7 @@ StartChar: eight
 Encoding: 24 56 64
 Width: 546
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -2250,11 +2250,12 @@ SplineSet
 140 300 m 3
  140 149.645665519 197 1.29409246575 323 -38 c 1
  296 -132 l 1
- 125.141601562 -96.4931981204 23 95 23 302 c 3
- 23 505.741100865 123.223632812 690.272828068 296 725 c 1
+ 125.141601562 -96.7386368431 23 93.430875576 23 299 c 7
+ 23 504.186073212 123.223632812 690.026536068 296 725 c 1
  323 634 l 1
  194.176757812 592.900711744 140 451.394177668 140 300 c 3
 EndSplineSet
+Kerns2: 333 -10 "'kern' Horizontal Kerning in Latin lookup 0-2" 333 -10 "'kern' Horizontal Kerning in Latin lookup 0-2" 333 -10 "'kern' Horizontal Kerning in Latin lookup 0-2" 333 -10 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: quoteright
@@ -2341,11 +2342,10 @@ StartChar: bracketright
 Encoding: 61 93 77
 Width: 338
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
-Refer: 76 91 N -1 0 0 -1 340 593 2
-Validated: 5
+Refer: 76 91 S -1 0 0 -1 338 593 2
 EndChar
 
 StartChar: exclam
@@ -2586,13 +2586,12 @@ EndChar
 
 StartChar: braceright
 Encoding: 93 125 88
-Width: 297
+Width: 321
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 86 123 N -1 0 0 -1 299 594 2
-Validated: 5
+Refer: 86 123 N -1 0 0 -1 317 594 2
 EndChar
 
 StartChar: numbersign
