@@ -84,6 +84,7 @@ var ss02 = JSON.parse(localStorage.getItem('ss02'));
 var ss03 = JSON.parse(localStorage.getItem('ss03'));
 var ss04 = JSON.parse(localStorage.getItem('ss04'));
 var pnum = JSON.parse(localStorage.getItem('pnum'));
+var kern = JSON.parse(localStorage.getItem('kern'));
 
 if (ss01) {
   ss01 = false;
@@ -105,11 +106,16 @@ if (pnum) {
   pnum = false;
   togglePnum();
 }
+if (kern) {
+  kern = false;
+  toggleKern();
+}
 document.querySelector('#ss01-button').addEventListener('click', toggleSs01);
 document.querySelector('#ss02-button').addEventListener('click', toggleSs02);
 document.querySelector('#ss03-button').addEventListener('click', toggleSs03);
 document.querySelector('#ss04-button').addEventListener('click', toggleSs04);
 document.querySelector('#pnum-button').addEventListener('click', togglePnum);
+document.querySelector('#kern-button').addEventListener('click', toggleKern);
 
 function toggleSs01() {
   ss01 = !ss01;
@@ -136,6 +142,11 @@ function togglePnum() {
   localStorage.setItem('pnum', pnum);
   updateFontFeatureSettings();
 }
+function toggleKern() {
+  kern = !kern;
+  localStorage.setItem('kern', kern);
+  updateFontFeatureSettings();
+}
 
 function updateFontFeatureSettings() {
   var values = [];
@@ -144,6 +155,7 @@ function updateFontFeatureSettings() {
   if (ss03) values.push("'ss03'");
   if (ss04) values.push("'ss04'");
   if (pnum) values.push("'pnum'");
+  if (kern) values.push("'kern' 0");
   document.body.style.fontFeatureSettings = values.join(',');
 }
 
