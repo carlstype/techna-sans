@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560349253
+ModificationTime: 1560349344
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -255,9 +255,9 @@ StartChar: C
 Encoding: 35 67 2
 Width: 602
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "Top" 376 744 basechar 0
-AnchorPoint: "Cedilla" 384 0 basechar 0
+AnchorPoint: "Cedilla" 380 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -2814,7 +2814,7 @@ Back
 Refer: 159 184 N 1 0 0 1 261 0 2
 Refer: 2 67 N 1 0 0 1 0 0 3
 Fore
-Refer: 159 184 N 1 0 0 1 248 0 2
+Refer: 159 184 N 1 0 0 1 244 0 2
 Refer: 2 67 N 1 0 0 1 0 0 3
 EndChar
 
