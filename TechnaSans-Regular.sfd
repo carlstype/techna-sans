@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560295389
+ModificationTime: 1560344481
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -47,7 +47,8 @@ Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 3" { "'tnum' Tabular Numbers lookup
 Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 2" { "'pnum' Proportional Numbers lookup 2-1"  } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Style Set 1 in Latin lookup 1" { "'ss01' Style Set 1 in Latin lookup 1-1"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "Pairwise Positioning (kerning) lookup 1" { "Pairwise Positioning (kerning) lookup 1-1" [150,15,0] } ['    ' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-2" [150,15,2] "'kern' Horizontal Kerning in Latin lookup 0-1" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 54 42 "'kern' Horizontal Kerning in Latin lookup 0-1"
@@ -153,7 +154,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 95 19 7
+WinInfo: 76 19 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1782,24 +1783,24 @@ EndChar
 
 StartChar: y
 Encoding: 89 121 52
-Width: 486
+Width: 490
 VWidth: 0
-Flags: HMW
-AnchorPoint: "Top" 246 574 basechar 0
+Flags: HMWO
+AnchorPoint: "Top" 248 574 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-316 7 m 2
- 277.251707709 -108.084748362 227 -168 123 -168 c 3
- 81 -168 46 -158.5 28 -149 c 1
- 28 -37 l 1
- 51 -46.2 83 -53 107 -53 c 3
- 156 -53 179.968270215 -19.9959058342 185 19 c 2
- 189 50 l 1
- 217 50 l 1
- 351 503 l 1
- 483 503 l 1
- 316 7 l 2
+320 7 m 2
+ 281.251707709 -108.084748362 231 -168 127 -168 c 3
+ 85 -168 50 -158.5 32 -149 c 1
+ 32 -37 l 1
+ 55 -46.2 87 -53 111 -53 c 3
+ 160 -53 183.968270215 -19.9959058342 189 19 c 2
+ 193 50 l 1
+ 221 50 l 1
+ 355 503 l 1
+ 487 503 l 1
+ 320 7 l 2
 3 503 m 1
  145 503 l 1
  286 50 l 1
@@ -2621,7 +2622,7 @@ StartChar: percent
 Encoding: 5 37 90
 Width: 866
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 Refer: 346 8304 N 1 0 0 1 490 -288 2
@@ -3228,6 +3229,7 @@ Refer: 33 97 N 1 0 0 1 0 0 3
 Fore
 Refer: 154 168 N 1 0 0 1 24 12 2
 Refer: 33 97 N 1 0 0 1 0 0 3
+Kerns2: 4 0 "'kern' Horizontal Kerning in Latin lookup 0-2"
 Substitution2: "'ss01' Style Set 1 in Latin lookup 1-1" adieresis.ss01
 EndChar
 
@@ -3556,23 +3558,23 @@ EndChar
 
 StartChar: yacute
 Encoding: 188 253 151
-Width: 486
+Width: 490
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 157 180 N 1 0 0 1 169 52 2
+Refer: 157 180 N 1 0 0 1 171 52 2
 Refer: 52 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ydieresis
 Encoding: 190 255 152
-Width: 486
+Width: 490
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 154 168 N 1 0 0 1 31 12 2
+Refer: 154 168 N 1 0 0 1 33 12 2
 Refer: 52 121 N 1 0 0 1 0 0 3
 EndChar
 
