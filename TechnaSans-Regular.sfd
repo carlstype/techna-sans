@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560455324
+ModificationTime: 1560455735
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -153,7 +153,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 300 6 5
+WinInfo: 120 6 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2741,7 +2741,7 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 158 730 N 1 0 0 1 196 225 2
+Refer: 158 730 N 1 0 0 1 191 225 2
 Refer: 7 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3225,7 +3225,7 @@ Back
 Refer: 158 730 N 1 0 0 1 113 56 2
 Refer: 33 97 N 1 0 0 1 0 0 3
 Fore
-Refer: 158 730 N 1 0 0 1 113 55 2
+Refer: 158 730 N 1 0 0 1 108 55 2
 Refer: 33 97 N 1 0 0 1 0 0 3
 Substitution2: "'ss01' Style Set 1 in Latin lookup 1-1" aring.ss01
 EndChar
@@ -3664,23 +3664,23 @@ EndChar
 
 StartChar: ring
 Encoding: 286 730 158
-Width: 252
+Width: 262
 VWidth: 0
-Flags: HMW
-AnchorPoint: "Top" 126 519 mark 0
+Flags: HMWO
+AnchorPoint: "Top" 131 519 mark 0
 LayerCount: 3
 Fore
 SplineSet
-79.5 598 m 7
- 79.5 572.424781156 94.7857572115 551.5 126 551.5 c 3
- 157.214242788 551.5 172.5 572.424781156 172.5 598 c 3
- 172.5 623.575218844 157.214242788 644.5 126 644.5 c 3
- 94.7857572115 644.5 79.5 623.575218844 79.5 598 c 7
-16 598 m 7
- 16 653.55 53.7916124131 699 126 699 c 3
- 198.208387586 699 236 653.55 236 598 c 3
- 236 542.45 198.208387586 497 126 497 c 3
- 53.7916124131 497 16 542.45 16 598 c 7
+83.5 598 m 7
+ 83.5 572.424804688 99.1142578125 551.5 131 551.5 c 3
+ 162.885742188 551.5 178.5 572.424804688 178.5 598 c 3
+ 178.5 623.575195312 162.885742188 644.5 131 644.5 c 3
+ 99.1142578125 644.5 83.5 623.575195312 83.5 598 c 7
+20 598 m 7
+ 20 653.549804688 58.134765625 699 131 699 c 3
+ 203.865234375 699 242 653.549804688 242 598 c 3
+ 242 542.450195312 203.865234375 497 131 497 c 3
+ 58.134765625 497 20 542.450195312 20 598 c 7
 EndSplineSet
 EndChar
 
@@ -5417,7 +5417,7 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 158 730 N 1 0 0 1 189 225 2
+Refer: 158 730 N 1 0 0 1 184 225 2
 Refer: 17 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5428,7 +5428,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 158 730 N 1 0 0 1 142 55 2
+Refer: 158 730 N 1 0 0 1 137 55 2
 Refer: 34 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5814,7 +5814,7 @@ StartChar: uni20BD
 Encoding: 309 8381 295
 Width: 591
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -6801,7 +6801,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 158 730 N 1 0 0 1 169 55 2
+Refer: 158 730 N 1 0 0 1 164 55 2
 Refer: 333 -1 N 1 0 0 1 0 0 3
 EndChar
 
