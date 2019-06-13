@@ -6,7 +6,8 @@ making it perfect for branding and headlines.
 The typeface is tightly spaced and is intended mainly for big text,
 but with generous spacing it works equally well in smaller sizes.
 
-Licensed under the SIL Open Font License, Techna Sans is free both for personal and commercial use.
+Licensed under the SIL Open Font License,
+Techna Sans is free both for personal and commercial use.
 
 **[↓ Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/v1.000/techna-sans.zip)**
 
