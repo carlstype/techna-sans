@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560454263
+ModificationTime: 1560455039
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -153,7 +153,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 13 5
+WinInfo: 294 6 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2285,20 +2285,20 @@ EndChar
 
 StartChar: bracketleft
 Encoding: 59 91 76
-Width: 333
+Width: 331
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
 130 718 m 1
- 333 718 l 1
- 307 619 l 1
+ 331 718 l 1
+ 305 619 l 1
  130 619 l 1
  130 718 l 1
 130 -26 m 1
- 307 -26 l 1
- 333 -125 l 1
+ 305 -26 l 1
+ 331 -125 l 1
  130 -125 l 1
  130 -26 l 1
 174 -125 m 1
@@ -2307,7 +2307,6 @@ SplineSet
  174 718 l 1
  174 -125 l 1
 EndSplineSet
-Validated: 5
 Kerns2: 48 65 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
@@ -2507,7 +2506,7 @@ EndChar
 
 StartChar: braceleft
 Encoding: 91 123 86
-Width: 313
+Width: 310
 VWidth: 0
 Flags: HMW
 LayerCount: 3
@@ -2561,12 +2560,12 @@ EndChar
 
 StartChar: braceright
 Encoding: 93 125 88
-Width: 321
+Width: 310
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 86 123 N -1 0 0 -1 317 594 2
+Refer: 86 123 N -1 0 0 -1 310 594 2
 EndChar
 
 StartChar: numbersign
@@ -2608,8 +2607,8 @@ Flags: HMW
 LayerCount: 3
 Fore
 Refer: 346 8304 N 1 0 0 1 490 -288 2
-Refer: 346 8304 N 1 0 0 1 6 0 2
-Refer: 293 8260 S 1 0 0 1 151 0 2
+Refer: 346 8304 N 1 0 0 1 6 1 2
+Refer: 293 8260 N 1 0 0 1 151 0 2
 EndChar
 
 StartChar: equal
@@ -2751,14 +2750,16 @@ Encoding: 133 198 99
 Width: 903
 VWidth: 0
 Flags: HMW
+AnchorPoint: "Ogonek" 385 0 basechar 0
+AnchorPoint: "Top" 296 744 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-490 412.916992188 m 1
- 810 412.916992188 l 1
+490 413.916992188 m 5
+ 810 413.916992188 l 5
  778 293 l 1
  488 292.916992188 l 1
- 490 412.916992188 l 1
+ 490 413.916992188 l 5
 490 122 m 1
  868 122 l 1
  901 0 l 1
@@ -3037,11 +3038,11 @@ SplineSet
  154 219.966796875 235.926757812 104 392 104 c 3
  546.073242188 104 630 219.966796875 630 344 c 3
  630 468.033203125 545.985351562 584 392 584 c 3
-691 412.916992188 m 1
- 1022 412.916992188 l 1
+691 413.916992188 m 5
+ 1022 413.916992188 l 5
  990 293 l 1
  689 292.916992188 l 1
- 691 412.916992188 l 1
+ 691 413.916992188 l 5
 691 122 m 1
  1080 122 l 1
  1113 0 l 1
@@ -3058,7 +3059,6 @@ SplineSet
  761 0 l 1
  630 0 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: Ugrave
@@ -3671,16 +3671,16 @@ AnchorPoint: "Top" 126 519 mark 0
 LayerCount: 3
 Fore
 SplineSet
-80.5 598 m 7
- 80.5 572.424781156 95.45703125 551.5 126 551.5 c 3
- 156.54296875 551.5 171.5 572.424781156 171.5 598 c 7
- 171.5 623.575218844 156.54296875 644.5 126 644.5 c 3
- 95.45703125 644.5 80.5 623.575218844 80.5 598 c 7
-17 598 m 7
- 17 653.55 54.4480523003 699 126 699 c 3
- 197.551947699 699 235 653.55 235 598 c 7
- 235 542.45 197.551947699 497 126 497 c 3
- 54.4480523003 497 17 542.45 17 598 c 7
+79.5 598 m 7
+ 79.5 572.424781156 94.7857572115 551.5 126 551.5 c 3
+ 157.214242788 551.5 172.5 572.424781156 172.5 598 c 3
+ 172.5 623.575218844 157.214242788 644.5 126 644.5 c 3
+ 94.7857572115 644.5 79.5 623.575218844 79.5 598 c 7
+16 598 m 7
+ 16 653.55 53.7916124131 699 126 699 c 3
+ 198.208387586 699 236 653.55 236 598 c 3
+ 236 542.45 198.208387586 497 126 497 c 3
+ 53.7916124131 497 16 542.45 16 598 c 7
 EndSplineSet
 EndChar
 
@@ -3840,7 +3840,7 @@ StartChar: cent
 Encoding: 97 162 166
 Width: 456
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -5751,13 +5751,13 @@ StartChar: perthousand
 Encoding: 303 8240 292
 Width: 1238
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
 Refer: 293 8260 N 1 0 0 1 151 0 2
-Refer: 346 8304 S 1 0 0 1 862 -288 2
+Refer: 346 8304 N 1 0 0 1 862 -288 2
 Refer: 346 8304 N 1 0 0 1 490 -288 2
-Refer: 346 8304 N 1 0 0 1 6 0 2
+Refer: 346 8304 N 1 0 0 1 6 1 2
 EndChar
 
 StartChar: fraction
@@ -6632,7 +6632,7 @@ Flags: HMW
 LayerCount: 3
 Fore
 Refer: 345 8308 N 1 0 0 1 450 -287 2
-Refer: 177 185 N 1 0 0 1 -18 0 2
+Refer: 177 185 S 1 0 0 1 -18 1 2
 Refer: 293 8260 N 1 0 0 1 134 0 2
 EndChar
 
@@ -6644,8 +6644,8 @@ Flags: HMW
 LayerCount: 3
 Fore
 Refer: 175 178 N 1 0 0 1 472 -287 2
-Refer: 177 185 N 1 0 0 1 -18 0 2
-Refer: 293 8260 S 1 0 0 1 133 0 2
+Refer: 177 185 S 1 0 0 1 -18 1 2
+Refer: 293 8260 N 1 0 0 1 133 0 2
 EndChar
 
 StartChar: threequarters
@@ -6656,7 +6656,7 @@ Flags: HMW
 LayerCount: 3
 Fore
 Refer: 345 8308 N 1 0 0 1 474 -287 2
-Refer: 176 179 N 1 0 0 1 1 0 2
+Refer: 176 179 N 1 0 0 1 1 1 2
 Refer: 293 8260 N 1 0 0 1 158 0 2
 EndChar
 
