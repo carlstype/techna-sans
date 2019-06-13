@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560454008
+ModificationTime: 1560454141
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -153,7 +153,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 299 13 5
+WinInfo: 0 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2214,27 +2214,17 @@ StartChar: parenleft
 Encoding: 8 40 71
 Width: 294
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
-Back
-SplineSet
-148 300 m 3
- 148 145.197265625 204.376953125 -7.54296875 329 -48 c 1
- 302 -132 l 1
- 131.141601562 -96.73828125 29 93.4306640625 29 299 c 3
- 29 504.186523438 129.223632812 690.026367188 302 725 c 1
- 329 644 l 1
- 201.584960938 601.669921875 148 455.926757812 148 300 c 3
-EndSplineSet
 Fore
 SplineSet
 148 300 m 3
- 148 120.9453125 233.513671875 -55.44921875 323 -125 c 1
+ 148 120.9453125 235.513671875 -55.44921875 323 -125 c 1
  192 -125 l 1
  114.901367188 -57.60546875 29 96.76953125 29 299 c 3
  29 500.814453125 113.756835938 650.700195312 192 718 c 1
  323 718 l 1
- 231.813476562 646.51953125 148 479.469726562 148 300 c 3
+ 233.813476562 646.51953125 148 479.469726562 148 300 c 3
 EndSplineSet
 Kerns2: 48 65 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
@@ -6875,7 +6865,7 @@ StartChar: .notdef
 Encoding: 344 -1 344
 Width: 640
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
