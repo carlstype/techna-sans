@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560599273
+ModificationTime: 1560600703
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -152,7 +152,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 6 5
+WinInfo: 330 6 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3657,6 +3657,7 @@ StartChar: dieresis
 Encoding: 103 168 154
 Width: 430
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 215 562 mark 0
 LayerCount: 3
@@ -3715,6 +3716,7 @@ StartChar: grave
 Encoding: 64 96 156
 Width: 236
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 159 522 mark 0
 LayerCount: 3
@@ -3733,7 +3735,7 @@ StartChar: acute
 Encoding: 115 180 157
 Width: 236
 VWidth: 0
-UnlinkRmOvrlpSave: 1
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 76 522 mark 0
 LayerCount: 3
@@ -3751,6 +3753,7 @@ StartChar: ring
 Encoding: 286 730 158
 Width: 262
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 131 519 mark 0
 LayerCount: 3
@@ -3773,6 +3776,7 @@ StartChar: cedilla
 Encoding: 119 184 159
 Width: 236
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Cedilla" 136 0 mark 0
 LayerCount: 3
@@ -3795,6 +3799,7 @@ StartChar: circumflex
 Encoding: 281 710 160
 Width: 346
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 173 522 mark 0
 LayerCount: 3
@@ -3818,6 +3823,7 @@ StartChar: caron
 Encoding: 282 711 161
 Width: 346
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 173 522 mark 0
 LayerCount: 3
@@ -3830,6 +3836,7 @@ StartChar: tilde
 Encoding: 288 732 162
 Width: 385
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 192 545 mark 0
 LayerCount: 3
@@ -5753,6 +5760,7 @@ StartChar: uni02C9
 Encoding: 283 713 285
 Width: 365
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 182 573 mark 0
 LayerCount: 3
@@ -5770,6 +5778,7 @@ StartChar: breve
 Encoding: 284 728 286
 Width: 344
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 172 535 mark 0
 LayerCount: 3
@@ -5790,6 +5799,7 @@ StartChar: dotaccent
 Encoding: 285 729 287
 Width: 233
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 116 574 mark 0
 LayerCount: 3
@@ -5808,6 +5818,7 @@ StartChar: ogonek
 Encoding: 287 731 288
 Width: 236
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Ogonek" 100 0 mark 0
 LayerCount: 3
@@ -5830,6 +5841,7 @@ StartChar: hungarumlaut
 Encoding: 289 733 289
 Width: 381
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Top" 155 522 mark 0
 LayerCount: 3
@@ -6131,7 +6143,7 @@ StartChar: estimated
 Encoding: 313 8494 299
 Width: 760
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -7017,6 +7029,7 @@ StartChar: commasubnosp
 Encoding: 343 806 343
 Width: 230
 VWidth: 0
+GlyphClass: 2
 Flags: HMW
 AnchorPoint: "Bottom" 125 -41 mark 0
 LayerCount: 3
@@ -7072,7 +7085,7 @@ StartChar: foursuperior
 Encoding: 345 8308 345
 Width: 370
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
 SplineSet
@@ -7083,8 +7096,8 @@ SplineSet
  18 364 l 1
  18 445 l 1
 214 287 m 1
- 214 522 l 5
- 322 554 l 1
+ 214 517 l 1
+ 322 550 l 5
  322 287 l 1
  214 287 l 1
 18 445 m 1
