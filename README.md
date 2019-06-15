@@ -25,9 +25,11 @@ An alternate, single-storey **a** is available via Stylistic Set 1.
 If you are using CSS, the stylistic set can enabled with `font-feature-settings: 'ss01'`.
 For other applications, e.g. Adobe InDesign, a quick Google search might be needed.
 
-The typeface also has a set of proportional figures.
-By default the typeface has tabular figures are enabled, meaning that all numbers have the same width.
-Proportional figures can be enabled in CSS with `font-variant-numeric: proportional-nums`, or alternatively `font-feature-settings: 'pnum'`.
+By default the typeface uses proportional figures,
+but there is also a set of tabular figures available.
+Tabular figures makes each number take up the same space,
+which helps when setting tabular data.
+The tabular figures can be enabled in CSS with `font-variant-numeric: tabular-nums`, or alternatively `font-feature-settings: 'tnum'`.
 
 ## Language support
 

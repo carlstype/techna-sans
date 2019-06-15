@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560595127
+ModificationTime: 1560595818
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -44,7 +44,6 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'UKWN'
 Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 3" { "'tnum' Tabular Numbers lookup 3-1"  } ['tnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 2" { "'pnum' Proportional Numbers lookup 2-1"  } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Style Set 1 in Latin lookup 1" { "'ss01' Style Set 1 in Latin lookup 1-1"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-2" [10,15,4] "'kern' Horizontal Kerning in Latin lookup 0-1" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
@@ -84,13 +83,13 @@ KernClass2: 54 42 "'kern' Horizontal Kerning in Latin lookup 0-1"
  26 Z Zacute Zdotaccent Zcaron
  5 Thorn
  10 germandbls
- 23 eth zero.pnum nine.pnum
- 8 two.pnum
- 23 B three.pnum eight.pnum
- 9 four.pnum
- 9 five.pnum
- 8 six.pnum
- 10 seven.pnum
+ 13 eth zero nine
+ 3 two
+ 13 B three eight
+ 4 four
+ 4 five
+ 3 six
+ 5 seven
  89 quotedbl quotesingle dcaron lcaron tcaron quoteleft quoteright quotedblleft quotedblright
  9 ampersand
  21 parenleft bracketleft
@@ -126,15 +125,15 @@ KernClass2: 54 42 "'kern' Horizontal Kerning in Latin lookup 0-1"
  18 Y Yacute Ydieresis
  26 Z Zacute Zdotaccent Zcaron
  2 AE
- 18 zero.pnum six.pnum
- 8 one.pnum
- 8 two.pnum
- 10 three.pnum
- 9 four.pnum
- 9 five.pnum
- 10 seven.pnum
- 10 eight.pnum
- 9 nine.pnum
+ 8 zero six
+ 3 one
+ 3 two
+ 5 three
+ 4 four
+ 4 five
+ 5 seven
+ 5 eight
+ 4 nine
  68 quotedbl quotesingle quoteleft quoteright quotedblleft quotedblright
  9 ampersand
  23 parenright bracketright
@@ -153,7 +152,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 276 6 5
+WinInfo: 330 6 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1902,8 +1901,8 @@ Validated: 1
 Kerns2: 48 30 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
-StartChar: two
-Encoding: 18 50 56
+StartChar: two.tnum
+Encoding: 18 -1 56
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -1930,11 +1929,10 @@ SplineSet
  357 551.59765625 312.401785714 576 246 576 c 3
  166.830625 576 109.477460937 553.000463453 49 516 c 1
 EndSplineSet
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" two.pnum
 EndChar
 
-StartChar: one
-Encoding: 17 49 57
+StartChar: one.tnum
+Encoding: 17 -1 57
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -1952,11 +1950,10 @@ SplineSet
  391 0 l 1
  257 0 l 1
 EndSplineSet
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" one.pnum
 EndChar
 
-StartChar: three
-Encoding: 19 51 58
+StartChar: three.tnum
+Encoding: 19 -1 58
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -1983,11 +1980,10 @@ SplineSet
  183 408 l 1
  277.212890625 410.022460938 351 427 351 498 c 3
 EndSplineSet
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" three.pnum
 EndChar
 
-StartChar: zero
-Encoding: 16 48 59
+StartChar: zero.tnum
+Encoding: 16 -1 59
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -2005,11 +2001,10 @@ SplineSet
  349.380859375 109 390 179.342773438 390 346 c 3
  390 510.575195312 349.380859375 579 272 579 c 3
 EndSplineSet
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" zero.pnum
 EndChar
 
-StartChar: four
-Encoding: 20 52 60
+StartChar: four.tnum
+Encoding: 20 -1 60
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -2033,11 +2028,10 @@ SplineSet
  155 260 l 1
  8 260 l 1
 EndSplineSet
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" four.pnum
 EndChar
 
-StartChar: five
-Encoding: 21 53 61
+StartChar: five.tnum
+Encoding: 21 -1 61
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -2066,11 +2060,10 @@ SplineSet
  149.995117188 423 208.768554688 440 277 440 c 3
  407.481445312 440 513 364.942382812 513 227 c 3
 EndSplineSet
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" five.pnum
 EndChar
 
-StartChar: six
-Encoding: 22 54 62
+StartChar: six.tnum
+Encoding: 22 -1 62
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -2095,11 +2088,10 @@ SplineSet
  111.487304688 700 26 528 26 330 c 1
 EndSplineSet
 Validated: 5
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" six.pnum
 EndChar
 
-StartChar: seven
-Encoding: 23 55 63
+StartChar: seven.tnum
+Encoding: 23 -1 63
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -2119,11 +2111,10 @@ SplineSet
  86 0 l 1
 EndSplineSet
 Validated: 5
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" seven.pnum
 EndChar
 
-StartChar: eight
-Encoding: 24 56 64
+StartChar: eight.tnum
+Encoding: 24 -1 64
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -2152,11 +2143,10 @@ SplineSet
  372 546.687631671 335.770005028 589 273 589 c 7
 EndSplineSet
 Validated: 5
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" eight.pnum
 EndChar
 
-StartChar: nine
-Encoding: 25 57 65
+StartChar: nine.tnum
+Encoding: 25 -1 65
 Width: 546
 VWidth: 0
 Flags: HMW
@@ -2181,7 +2171,6 @@ SplineSet
  449.043945312 -10 520 166.030136986 520 353 c 1
 EndSplineSet
 Validated: 5
-Substitution2: "'pnum' Proportional Numbers lookup 2-1" nine.pnum
 EndChar
 
 StartChar: quotedbl
@@ -7168,8 +7157,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: zero.pnum
-Encoding: 347 -1 347
+StartChar: zero
+Encoding: 347 48 347
 Width: 592
 VWidth: 0
 Flags: MW
@@ -7191,87 +7180,87 @@ Validated: 1
 Substitution2: "'tnum' Tabular Numbers lookup 3-1" zero.tnum
 EndChar
 
-StartChar: one.pnum
-Encoding: 348 -1 348
+StartChar: one
+Encoding: 348 49 348
 Width: 404
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 57 49 N 1 0 0 1 -67 0 2
+Refer: 57 -1 N 1 0 0 1 -67 0 2
 Substitution2: "'tnum' Tabular Numbers lookup 3-1" one.tnum
 EndChar
 
-StartChar: two.pnum
-Encoding: 349 -1 349
+StartChar: two
+Encoding: 349 50 349
 Width: 520
 VWidth: 0
 Flags: MW
 LayerCount: 3
 Fore
-Refer: 56 50 N 1 0 0 1 -15 0 2
+Refer: 56 -1 N 1 0 0 1 -15 0 2
 Substitution2: "'tnum' Tabular Numbers lookup 3-1" two.tnum
 EndChar
 
-StartChar: three.pnum
-Encoding: 350 -1 350
+StartChar: three
+Encoding: 350 51 350
 Width: 519
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 58 51 N 1 0 0 1 -19 0 2
+Refer: 58 -1 N 1 0 0 1 -19 0 2
 Substitution2: "'tnum' Tabular Numbers lookup 3-1" three.tnum
 EndChar
 
-StartChar: four.pnum
-Encoding: 351 -1 351
+StartChar: four
+Encoding: 351 52 351
 Width: 546
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 60 52 N 1 0 0 1 0 0 2
+Refer: 60 -1 N 1 0 0 1 0 0 2
 Substitution2: "'tnum' Tabular Numbers lookup 3-1" four.tnum
 EndChar
 
-StartChar: five.pnum
-Encoding: 352 -1 352
+StartChar: five
+Encoding: 352 53 352
 Width: 526
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 61 53 N 1 0 0 1 -9 0 2
+Refer: 61 -1 N 1 0 0 1 -9 0 2
 Substitution2: "'tnum' Tabular Numbers lookup 3-1" five.tnum
 EndChar
 
-StartChar: six.pnum
-Encoding: 353 -1 353
+StartChar: six
+Encoding: 353 54 353
 Width: 546
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 62 54 N 1 0 0 1 0 0 2
+Refer: 62 -1 N 1 0 0 1 0 0 2
 Validated: 5
-Substitution2: "'tnum' Tabular Numbers lookup 3-1" six
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" six.tnum
 EndChar
 
-StartChar: seven.pnum
-Encoding: 354 -1 354
+StartChar: seven
+Encoding: 354 55 354
 Width: 515
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 63 55 N 1 0 0 1 -15 0 2
+Refer: 63 -1 N 1 0 0 1 -15 0 2
 Validated: 5
-Substitution2: "'tnum' Tabular Numbers lookup 3-1" seven
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" seven.tnum
 EndChar
 
-StartChar: eight.pnum
-Encoding: 355 -1 355
+StartChar: eight
+Encoding: 355 56 355
 Width: 560
 VWidth: 0
 Flags: HMW
@@ -7300,19 +7289,19 @@ SplineSet
  385 548.607421875 346.573745265 590 280 590 c 7
 EndSplineSet
 Validated: 5
-Substitution2: "'tnum' Tabular Numbers lookup 3-1" eight
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" eight.tnum
 EndChar
 
-StartChar: nine.pnum
-Encoding: 356 -1 356
+StartChar: nine
+Encoding: 356 57 356
 Width: 546
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 65 57 N 1 0 0 1 1 0 2
+Refer: 65 -1 N 1 0 0 1 1 0 2
 Validated: 5
-Substitution2: "'tnum' Tabular Numbers lookup 3-1" nine
+Substitution2: "'tnum' Tabular Numbers lookup 3-1" nine.tnum
 EndChar
 EndChars
 EndSplineFont
