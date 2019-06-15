@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560593376
+ModificationTime: 1560593461
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -153,7 +153,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 312 6 5
+WinInfo: 324 6 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -6190,7 +6190,7 @@ StartChar: estimated
 Encoding: 313 8494 299
 Width: 760
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -6941,8 +6941,8 @@ StartChar: a.ss01
 Encoding: 333 -1 333
 Width: 602
 VWidth: 0
-Flags: HMW
-AnchorPoint: "Top" 296 574 basechar 0
+Flags: HMWO
+AnchorPoint: "Top" 300 574 basechar 0
 AnchorPoint: "Ogonek" 446 -1 basechar 0
 LayerCount: 3
 Fore
@@ -6981,7 +6981,7 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 156 96 N 1 0 0 1 137 52 2
+Refer: 156 96 N 1 0 0 1 141 52 2
 Refer: 333 -1 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6992,7 +6992,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 157 180 N 1 0 0 1 219 52 2
+Refer: 157 180 N 1 0 0 1 223 52 2
 Refer: 333 -1 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7003,7 +7003,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 160 710 N 1 0 0 1 123 52 2
+Refer: 160 710 N 1 0 0 1 127 52 2
 Refer: 333 -1 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7014,7 +7014,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 162 732 N 1 0 0 1 104 29 2
+Refer: 162 732 N 1 0 0 1 108 29 2
 Refer: 333 -1 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7025,7 +7025,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 154 168 N 1 0 0 1 81 12 2
+Refer: 154 168 N 1 0 0 1 85 12 2
 Refer: 333 -1 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7036,7 +7036,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 158 730 N 1 0 0 1 165 55 2
+Refer: 158 730 N 1 0 0 1 169 55 2
 Refer: 333 -1 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7047,7 +7047,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 285 713 N 1 0 0 1 114 1 2
+Refer: 285 713 N 1 0 0 1 118 1 2
 Refer: 333 -1 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7058,7 +7058,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 3
 Fore
-Refer: 286 728 N 1 0 0 1 124 39 2
+Refer: 286 728 N 1 0 0 1 128 39 2
 Refer: 333 -1 N 1 0 0 1 0 0 3
 EndChar
 
