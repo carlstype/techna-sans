@@ -21,9 +21,13 @@ Techna Sans is free both for personal and commercial use.
 
 ## OpenType features
 
+### Single-storey a
+
 An alternate, single-storey **a** is available via Stylistic Set 1.
 If you are using CSS, the stylistic set can enabled with `font-feature-settings: 'ss01'`.
 For other applications, e.g. Adobe InDesign, a quick Google search might be needed.
+
+### Tabular figures
 
 By default the typeface uses proportional figures,
 but there is also a set of tabular figures available.
