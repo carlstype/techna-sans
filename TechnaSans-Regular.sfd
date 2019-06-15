@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560600703
+ModificationTime: 1560605855
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -152,7 +152,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 330 6 5
+WinInfo: 60 6 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1653,7 +1653,7 @@ StartChar: g
 Encoding: 71 103 47
 Width: 595
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "Top" 290 578 basechar 0
 LayerCount: 3
 Fore
@@ -1665,8 +1665,8 @@ SplineSet
  543 66 l 2
  543 -79.601659751 442.442742047 -176 261 -176 c 3
  196 -176 120.605351154 -160.387428977 77 -131 c 1
- 77 -15 l 1
- 127.179391289 -49.5017045454 201.555255031 -67 253 -67 c 3
+ 77 -14 l 1
+ 129.179391289 -52.6864866957 201.555255031 -67 253 -67 c 3
  350.987505174 -67 414 -23 414 56 c 2
  414 214 l 1
  415 214 l 1
@@ -7085,7 +7085,7 @@ StartChar: foursuperior
 Encoding: 345 8308 345
 Width: 370
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
