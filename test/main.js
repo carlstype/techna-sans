@@ -79,10 +79,17 @@ function toggleDark() {
 }
 document.querySelector('#dark-button').addEventListener('click', toggleDark);
 
+var ss01Button = document.querySelector('#ss01-button');
+ss01Button.addEventListener('click', toggleSs01);
+var ss02Button = document.querySelector('#ss02-button');
+ss02Button.addEventListener('click', toggleSs02);
+var tnumButton = document.querySelector('#tnum-button');
+tnumButton.addEventListener('click', toggleTnum);
+var kernButton = document.querySelector('#kern-button');
+kernButton.addEventListener('click', toggleKern);
+
 var ss01 = JSON.parse(localStorage.getItem('ss01'));
 var ss02 = JSON.parse(localStorage.getItem('ss02'));
-var ss03 = JSON.parse(localStorage.getItem('ss03'));
-var ss04 = JSON.parse(localStorage.getItem('ss04'));
 var tnum = JSON.parse(localStorage.getItem('tnum'));
 var kern = JSON.parse(localStorage.getItem('kern'));
 
@@ -94,56 +101,36 @@ if (ss02) {
   ss02 = false;
   toggleSs02();
 }
-if (ss03) {
-  ss03 = false;
-  toggleSs03();
-}
-if (ss04) {
-  ss04 = false;
-  toggleSs04();
-}
 if (tnum) {
   tnum = false;
   toggleTnum();
 }
-if (kern) {
+if (kern || kern === null) {
   kern = false;
   toggleKern();
 }
-document.querySelector('#ss01-button').addEventListener('click', toggleSs01);
-document.querySelector('#ss02-button').addEventListener('click', toggleSs02);
-document.querySelector('#ss03-button').addEventListener('click', toggleSs03);
-document.querySelector('#ss04-button').addEventListener('click', toggleSs04);
-document.querySelector('#tnum-button').addEventListener('click', toggleTnum);
-document.querySelector('#kern-button').addEventListener('click', toggleKern);
 
 function toggleSs01() {
   ss01 = !ss01;
+  ss01Button.classList.toggle('button--enabled');
   localStorage.setItem('ss01', ss01);
   updateFontFeatureSettings();
 }
 function toggleSs02() {
   ss02 = !ss02;
+  ss02Button.classList.toggle('button--enabled');
   localStorage.setItem('ss02', ss02);
-  updateFontFeatureSettings();
-}
-function toggleSs03() {
-  ss03 = !ss03;
-  localStorage.setItem('ss03', ss03);
-  updateFontFeatureSettings();
-}
-function toggleSs04() {
-  ss04 = !ss04;
-  localStorage.setItem('ss04', ss04);
   updateFontFeatureSettings();
 }
 function toggleTnum() {
   tnum = !tnum;
+  tnumButton.classList.toggle('button--enabled');
   localStorage.setItem('tnum', tnum);
   updateFontFeatureSettings();
 }
 function toggleKern() {
   kern = !kern;
+  kernButton.classList.toggle('button--enabled');
   localStorage.setItem('kern', kern);
   updateFontFeatureSettings();
 }
@@ -152,13 +139,13 @@ function updateFontFeatureSettings() {
   var values = [];
   if (ss01) values.push("'ss01'");
   if (ss02) values.push("'ss02'");
-  if (ss03) values.push("'ss03'");
-  if (ss04) values.push("'ss04'");
   if (tnum) values.push("'tnum'");
   if (kern) values.push("'kern' 0");
   document.body.style.fontFeatureSettings = values.join(',');
 }
 
+var uppercaseButton = document.querySelector('#uppercase-button');
+uppercaseButton.addEventListener('click', toggleTextCase);
 var uppercase = JSON.parse(localStorage.getItem('uppercase'));
 if (uppercase) {
   uppercase = false;
@@ -166,10 +153,10 @@ if (uppercase) {
 }
 function toggleTextCase() {
   document.body.classList.toggle('uppercase');
+  uppercaseButton.classList.toggle('button--enabled');
   uppercase = !uppercase;
   localStorage.setItem('uppercase', uppercase);
 }
-document.querySelector('#uppercase-button').addEventListener('click', toggleTextCase);
 
 
 
