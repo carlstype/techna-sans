@@ -40,3 +40,10 @@ Czech, Danish, Dutch, English, Estonian, Faroese, Filipino, Finnish, French,
 Galician, German, Hungarian, Icelandic, Indonesian, Irish, Italian, Latvian,
 Lithuanian, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Slovak,
 Slovenian, Spanish, Swahili, Swedish, Turkish and Zulu.
+
+## Details
+
+- Designed with [FontForge](httpx://fontforge.org).
+- Carefully spaced, with more than 800 <!-- UPDATE --> kerning pairs.
+- Has a couple of ligatures, e.g. for ff and TT.
+- Did I mention the typeface is 100% free for commercial use?
