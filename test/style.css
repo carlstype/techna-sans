@@ -18,40 +18,10 @@ body {
   margin: 100px auto 120px;
   max-width: 1600px;
   padding: 0 15px;
-  /* text-transform: uppercase; */
-  /* text-transform: capitalize; */
   word-wrap: break-word;
 
   background: #fff;
-  /* background: #eeeeee; */
-
-  /* background: #0af50a; */
-  /* background: #ff0707; */
-  /* background: #fff000; */
-  /* background: #00ccff; */
-  /* background: #ff00cc; */
-
   color: #000;
-  /* color: #ed1212; */
-}
-
-.dark {
-  background: #000;
-  /* background: #ed1212; */
-
-  color: #fff;
-  /* color: #eeeeee; */
-
-  /* color: #0af50a; */
-  /* color: #ff0707; */
-  /* color: #fff000; */
-  /* color: #00ccff; */
-  /* color: #ff00cc; */
-}
-
-.uppercase {
-  text-transform: uppercase;
-  /* text-transform: capitalize; */
 }
 
 .color-input {
@@ -125,14 +95,8 @@ button {
   width: 160px;
 }
 
-#dark-button {
-  /* display: none; */
-}
-
 /* #ss01-button, */
 #ss02-button,
-#ss03-button,
-#ss04-button,
 #fg-color,
 #bg-color {
   display: none;

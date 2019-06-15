@@ -67,17 +67,32 @@ for (var i = 0, text; text = syncTexts[i]; ++i) {
     updateSyncText(this.value);
   });
 }
-var dark = JSON.parse(localStorage.getItem('dark'));
-if (dark) {
-  dark = false;
-  toggleDark();
+
+var colors = [
+  ['black', 'white'],
+  ['white', 'black'],
+  ['red', 'white'],
+  ['red', 'black'],
+  ['white', 'red'],
+  ['black', 'yellow'],
+  ['yellow', 'black'],
+  ['blue', 'white'],
+  ['white', 'blue'],
+];
+
+var color = JSON.parse(localStorage.getItem('color'));
+--color;
+toggleColor();
+function toggleColor() {
+  ++color;
+  if (color >= colors.length) {
+    color = 0;
+  }
+  document.body.style.color = colors[color][0];
+  document.body.style.background = colors[color][1];
+  localStorage.setItem('color', color);
 }
-function toggleDark() {
-  document.body.classList.toggle('dark');
-  dark = !dark;
-  localStorage.setItem('dark', dark);
-}
-document.querySelector('#dark-button').addEventListener('click', toggleDark);
+document.querySelector('#color-button').addEventListener('click', toggleColor);
 
 var ss01Button = document.querySelector('#ss01-button');
 ss01Button.addEventListener('click', toggleSs01);
@@ -87,6 +102,7 @@ var tnumButton = document.querySelector('#tnum-button');
 tnumButton.addEventListener('click', toggleTnum);
 var kernButton = document.querySelector('#kern-button');
 kernButton.addEventListener('click', toggleKern);
+kernButton.classList.toggle('button--enabled');
 
 var ss01 = JSON.parse(localStorage.getItem('ss01'));
 var ss02 = JSON.parse(localStorage.getItem('ss02'));
@@ -147,14 +163,19 @@ function updateFontFeatureSettings() {
 var uppercaseButton = document.querySelector('#uppercase-button');
 uppercaseButton.addEventListener('click', toggleTextCase);
 var uppercase = JSON.parse(localStorage.getItem('uppercase'));
-if (uppercase) {
-  uppercase = false;
+var cases = ['none', 'uppercase', 'capitalize'];
+if (uppercase > 0) {
+  --uppercase;
   toggleTextCase();
 }
 function toggleTextCase() {
-  document.body.classList.toggle('uppercase');
-  uppercaseButton.classList.toggle('button--enabled');
-  uppercase = !uppercase;
+  ++uppercase;
+  if (uppercase >= cases.length) {
+    uppercase = 0;
+  }
+  console.log(uppercase);
+  var style = cases[uppercase];
+  document.body.style.textTransform = style;
   localStorage.setItem('uppercase', uppercase);
 }
 
