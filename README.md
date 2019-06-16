@@ -9,7 +9,7 @@ but with generous spacing it works equally well in smaller sizes.
 Licensed under the SIL Open Font License,
 Techna Sans is free both for personal and commercial use.
 
-**[↓ Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/v1.000/techna-sans.zip)**
+**[↓ Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/1.002/techna-sans-1.002.zip)**
 
 ![](specimen/title.png)
 
