@@ -45,7 +45,7 @@ Galician, German, Hungarian, Icelandic, Indonesian, Irish, Italian, Latvian,
 Lithuanian, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Slovak,
 Slovenian, Spanish, Swahili, Swedish, Turkish and Zulu.
 
-## Details
+## Information
 
 - Designed with [FontForge](httpx://fontforge.org).
 - Carefully spaced, with more than 1200 manual kerning pairs.
