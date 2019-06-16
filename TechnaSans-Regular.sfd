@@ -177,7 +177,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 13 5
+WinInfo: 156 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3512,7 +3512,6 @@ LayerCount: 3
 Fore
 Refer: 160 710 N 1 0 0 1 -56 52 2
 Refer: 135 305 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 
 StartChar: idieresis
@@ -3524,7 +3523,6 @@ LayerCount: 3
 Fore
 Refer: 154 168 N 1 0 0 1 -98 12 2
 Refer: 135 305 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 
 StartChar: ntilde
@@ -5139,7 +5137,6 @@ LayerCount: 3
 Fore
 Refer: 285 713 N 1 0 0 1 -65 1 2
 Refer: 135 305 N 1 0 0 1 0 0 3
-Colour: ffff00
 EndChar
 
 StartChar: Iogonek
