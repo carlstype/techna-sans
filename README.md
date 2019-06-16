@@ -48,6 +48,6 @@ Slovenian, Spanish, Swahili, Swedish, Turkish and Zulu.
 ## Details
 
 - Designed with [FontForge](httpx://fontforge.org).
-- Carefully spaced, with more than 800 <!-- UPDATE --> kerning pairs.
+- Carefully spaced, with more than 1000 manual kerning pairs.
 - Has a couple of ligatures, e.g. for ff and TT.
 - Did I mention the typeface is 100% free for commercial use?
