@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1557605594
-ModificationTime: 1560701848
+ModificationTime: 1560807145
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -177,7 +177,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 156 13 5
+WinInfo: 0 39 15
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2844,17 +2844,15 @@ StartChar: AE
 Encoding: 133 198 99
 Width: 903
 VWidth: 0
-Flags: HMW
-AnchorPoint: "Ogonek" 385 0 basechar 0
-AnchorPoint: "Top" 296 744 basechar 0
+Flags: HMWO
 LayerCount: 3
 Fore
 SplineSet
-490 413.916992188 m 5
- 810 413.916992188 l 5
+490 413.916992188 m 1
+ 810 413.916992188 l 1
  778 293 l 1
  488 292.916992188 l 1
- 490 413.916992188 l 5
+ 490 413.916992188 l 1
 490 122 m 1
  868 122 l 1
  901 0 l 1
@@ -2881,7 +2879,6 @@ SplineSet
  160 154 l 1
  160 268 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: Ccedilla
@@ -6021,7 +6018,7 @@ SplineSet
  221 122 l 2
  334 122 428 146 500 185 c 1
  500 65 l 1
- 442.169934641 25 322 -1.44328993201e-014 184 0 c 2
+ 442.169934641 25 322 -1.44328993201e-14 184 0 c 2
  142 0 l 1
 EndSplineSet
 Validated: 5
@@ -6798,7 +6795,7 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 84 95 N 1 0 0 1 -5.68434e-014 800 2
+Refer: 84 95 N 1 0 0 1 -5.68434e-14 800 2
 Validated: 1
 EndChar
 
