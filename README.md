@@ -1,23 +1,17 @@
 # Techna Sans
 
-Techna Sans is a bold, geometric sans-serif typeface.
-Its sharp stroke endings give the typeface an authentic and modern look,
-making it perfect for branding and headlines.
-The typeface is tightly spaced, intended mainly for big text,
-but with generous spacing it works equally well in smaller sizes.
-
+Techna Sans is a bold, semi-geometric sans-serif typeface.
+With its low contrast and sharp stroke endings,
+it has an authentic and modern look, making it perfect for branding and headlines.
+The typeface has very tight spacing, intended mainly for big text.
 Licensed under the SIL Open Font License,
 Techna Sans is free both for personal and commercial use.
 
-**[↓ Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/1.002/techna-sans-1.002.zip)**
+**[Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/1.002/techna-sans-1.002.zip)**
 
 ![](specimen/title.png)
 
 ![](specimen/sample.png)
-
-![](specimen/details.png)
-
-![](specimen/glyphs.png)
 
 ## OpenType features
 
@@ -33,7 +27,7 @@ By default the typeface uses proportional figures,
 but there is also a set of tabular figures available.
 Tabular figures makes each number take up the same space,
 which helps when setting tabular data.
-The tabular figures can be enabled in CSS with `font-variant-numeric: tabular-nums`, or alternatively `font-feature-settings: 'tnum'`.
+The tabular figures can be enabled in CSS with `font-variant-numeric: tabular-nums`.
 
 ## Language support
 
@@ -44,10 +38,3 @@ Czech, Danish, Dutch, English, Estonian, Faroese, Filipino, Finnish, French,
 Galician, German, Hungarian, Icelandic, Indonesian, Irish, Italian, Latvian,
 Lithuanian, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Slovak,
 Slovenian, Spanish, Swahili, Swedish, Turkish and Zulu.
-
-## Information
-
-- Designed with [FontForge](httpx://fontforge.org).
-- Carefully spaced, with more than 1200 manual kerning pairs.
-- Has a couple of ligatures, e.g. for ff and TT.
-- Did I mention the typeface is 100% free for commercial use?
