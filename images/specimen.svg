@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="C:\Users\Admin\Documents\type\techna-sans\images\sample.png"
+   inkscape:export-filename="C:\Users\Admin\Documents\type\techna-sans\images\glyphs.png"
    sodipodi:docname="specimen.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg1301"
@@ -5127,8 +5127,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60638083"
-     inkscape:cx="991.99834"
-     inkscape:cy="537.60541"
+     inkscape:cx="1545.4974"
+     inkscape:cy="792.32438"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5178,7 +5178,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-2751.8108,-1453.3233)">
+     transform="translate(-2751.1936,-1787.2448)">
     <path
        inkscape:connector-curvature="0"
        id="path4533"
@@ -5267,18 +5267,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.84476471px;line-height:99.00000095%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:-0.79374999px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.15764785;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3007.4573"
-       y="1543.0946"
+       y="1542.4779"
        id="text4563-6-5"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.9197896"
          sodipodi:role="line"
          x="3007.2588"
-         y="1543.0946"
+         y="1542.4779"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:99.00000095%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:-0.39687499px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.15764785"
          id="tspan4492">GEOMETRIC</tspan><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.9197896"
          sodipodi:role="line"
          x="3007.0603"
-         y="1621.1509"
+         y="1620.5342"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:99.00000095%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:-0.79374999px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.15764785"
          id="tspan4529"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.9197896"
@@ -5291,11 +5291,12 @@
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.9197896"
          sodipodi:role="line"
          x="3007.0603"
-         y="1699.2073"
+         y="1698.5906"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:99.00000095%;font-family:'Techna Sans';-inkscape-font-specification:'Techna Sans';text-align:center;letter-spacing:-0.79374999px;text-anchor:middle;fill:#ff0327;fill-opacity:1;stroke:none;stroke-width:2.15764785"
          id="tspan4534">19% grotesk</tspan></text>
     <g
-       id="g4807">
+       id="g4807"
+       transform="translate(0,-0.92559984)">
       <text
          transform="scale(0.99944821,1.0005521)"
          xml:space="preserve"
