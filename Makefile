@@ -18,7 +18,7 @@ master: all
 	rm -rf master
 	mkdir master
 	cp -r *.otf *.sfd LICENSE.txt README.md master
-	mkdir master/specimen
-	cp specimen/*.png master/specimen
+	mkdir master/images
+	cp images/*.png master/images
 clean:
 	rm -rf *.otf test/*.otf test/proof.pdf _site techna-sans techna-sans*.zip master
