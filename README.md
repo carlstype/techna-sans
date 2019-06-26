@@ -3,15 +3,17 @@
 Techna Sans is a bold, semi-geometric sans-serif typeface.
 With its low contrast and sharp stroke endings,
 it has an authentic and modern look, making it perfect for branding and headlines.
-The typeface has very tight spacing, intended mainly for big text.
+The typeface works well both in smaller and larger sizes, intended mainly for big text.
 Licensed under the SIL Open Font License,
 Techna Sans is free both for personal and commercial use.
 
 **[Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/1.002/techna-sans-1.002.zip)**
 
-![](specimen/title.png)
+![](images/title.png)
 
-![](specimen/sample.png)
+![](images/sample.png)
+
+![](images/glyphs.png)
 
 ## OpenType features
 
