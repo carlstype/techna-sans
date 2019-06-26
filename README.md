@@ -9,9 +9,11 @@ Techna Sans is free both for personal and commercial use.
 
 **[Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/1.002/techna-sans-1.002.zip)**
 
-![](specimen/title.png)
+![](images/title.png)
 
-![](specimen/glyphs.png)
+![](images/sample.png)
+
+![](images/glyphs.png)
 
 ## OpenType features
 
