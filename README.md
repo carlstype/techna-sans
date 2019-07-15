@@ -27,7 +27,7 @@ For other applications, e.g. Adobe InDesign, a quick Google search might be need
 
 By default the typeface uses proportional figures,
 but there is also a set of tabular figures available.
-Tabular figures makes each number take up the same space,
+Tabular figures make each number take up the same space,
 which helps when setting tabular data.
 The tabular figures can be enabled in CSS with `font-variant-numeric: tabular-nums`.
 
