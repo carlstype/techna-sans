@@ -13,8 +13,6 @@ Techna Sans is free both for personal and commercial use.
 
 ![](images/sample.png)
 
-![](images/glyphs.png)
-
 ## OpenType features
 
 ### Single-storey a
